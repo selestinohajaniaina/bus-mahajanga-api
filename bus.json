@@ -1,12 +1,31 @@
 {
-    "ligne_7": {
-        "id": 7,
-        "trajet": ["belobaka", "sotema", "mahabibo", "tsaramandroso", "mahavoky", "la corniche", "majunga be", "mahabibo", "sotema", "belobaka"],
-        "arret": ["belobaka", "star", "plaque 7", "loterana", "bazary kely", "CSB", "croisement cimetiere", "Jovena", "lalatapaka", "plaque", "miaramila", "bazary antanimasaja", "pompy", "bizo", "galana", "manjarisoa", "jardin Caylah", "bain douche", "mahabibo", "patel", "maki-loc", "maki-loc", "tsaralaza", "pont blanc", "maman'i phillipine", "rond point cité", "ond point taxi", "croisement soatata", "Secaline", "bar rotsaka", "croisement bloc", "pharmacie", "hopital manarapenitra", "caserne", "barea", "airtel", "solima", "lycée technique", "élevage", "roche rouge", "maison verte", "jardin d'amour", "nandrasana", "Cnaps", "Bord", "akbar", "kakal", "BOA", "Bazary be", "score", "poste", "croix rouge", "hôtel de ville", "mahabibo", "Galax"],
-        "plaque": "bleu",
-        "description": {
-            "bus": "jaune",
+    "data": [
+        {
+            "id": 70,
+            "name": "ligne 7",
+            "trajet": ["belobaka", "sotema", "mahabibo", "tsaramandroso", "mahavoky", "la corniche", "majunga be", "mahabibo", "sotema", "belobaka"],
+            "stop": ["belobaka", "star", "plaque 7", "loterana", "bazary kely", "CSB", "croisement cimetiere", "Jovena", "lalatapaka", "plaque", "miaramila", "bazary antanimasaja", "pompy", "bizo", "galana", "manjarisoa", "jardin Caylah", "bain douche", "mahabibo", "patel", "maki-loc", "maki-loc", "tsaralaza", "pont blanc", "maman'i phillipine", "rond point cité", "ond point taxi", "croisement soatata", "Secaline", "bar rotsaka", "croisement bloc", "pharmacie", "hopital manarapenitra", "caserne", "barea", "airtel", "solima", "lycée technique", "élevage", "roche rouge", "maison verte", "jardin d'amour", "nandrasana", "Cnaps", "Bord", "akbar", "kakal", "BOA", "Bazary be", "score", "poste", "croix rouge", "hôtel de ville", "mahabibo", "Galax"],
+            "plaque": "bleu",
+            "color": "jaune",
             "bande": "bleu et rouge"
+        },
+        {
+            "id": 71,
+            "name": "ligne 7",
+            "trajet": ["belobaka", "sotema", "mahabibo", "tsaramandroso", "mahavoky", "la corniche", "majunga be", "mahabibo", "sotema", "belobaka"],
+            "stop": ["belobaka", "star", "plaque 7", "loterana", "bazary kely", "CSB", "croisement cimetiere", "Jovena", "lalatapaka", "plaque", "miaramila", "bazary antanimasaja", "pompy", "bizo", "galana", "manjarisoa", "jardin Caylah", "bain douche", "mahabibo", "patel", "maki-loc", "maki-loc", "tsaralaza", "pont blanc", "maman'i phillipine", "rond point cité", "ond point taxi", "croisement soatata", "Secaline", "bar rotsaka", "croisement bloc", "pharmacie", "hopital manarapenitra", "caserne", "barea", "airtel", "solima", "lycée technique", "élevage", "roche rouge", "maison verte", "jardin d'amour", "nandrasana", "Cnaps", "Bord", "akbar", "kakal", "BOA", "Bazary be", "score", "poste", "croix rouge", "hôtel de ville", "mahabibo", "Galax"],
+            "plaque": "rouge",
+            "color": "jaune",
+            "bande": "bleu et rouge"
+        },
+        {
+            "id": 8,
+            "name": "ligne 8",
+            "trajet": ["belobaka", "sotema", "mahabibo", "tsaramandroso", "mahavoky", "la corniche", "majunga be", "mahabibo", "sotema", "belobaka"],
+            "stop": ["belobaka", "star", "plaque 7", "loterana", "bazary kely", "CSB", "croisement cimetiere", "Jovena", "lalatapaka", "plaque", "miaramila", "bazary antanimasaja", "pompy", "bizo", "galana", "manjarisoa", "jardin Caylah", "bain douche", "mahabibo", "patel", "maki-loc", "maki-loc", "tsaralaza", "pont blanc", "maman'i phillipine", "rond point cité", "ond point taxi", "croisement soatata", "Secaline", "bar rotsaka", "croisement bloc", "pharmacie", "hopital manarapenitra", "caserne", "barea", "airtel", "solima", "lycée technique", "élevage", "roche rouge", "maison verte", "jardin d'amour", "nandrasana", "Cnaps", "Bord", "akbar", "kakal", "BOA", "Bazary be", "score", "poste", "croix rouge", "hôtel de ville", "mahabibo", "Galax"],
+            "plaque": "",
+            "color": "blanc",
+            "bande": "rouge"
         }
-    }
+    ]
 }
