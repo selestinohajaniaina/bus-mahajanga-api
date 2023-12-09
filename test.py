@@ -24,8 +24,8 @@ def get_direction(depart, fin):
                     "BUS_NAME": i['name'],
                     "BUS_PLAQUE": i['plaque'],
                     "YOUR_TRAJET": trj,
-                    "TIME": A,
-                    "LONG": B
+                    "TIME": "pas definie",
+                    "LONG": "pas definie"
                 })
     # ajouter les contenues de liste 'cible' a la fonction get_direction()
     return cible
