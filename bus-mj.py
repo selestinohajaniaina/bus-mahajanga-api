@@ -21,8 +21,8 @@ def get_direction(depart, fin):
             # ajoutons cette sequence au liste cible
             cible.append({
                     "BUS_ID":i['id'],
-                    "BUS_NAME": i['name'],
-                    "BUS_PLAQUE": i['plaque'],
+                    # "BUS_NAME": i['name'],
+                    # "BUS_PLAQUE": i['plaque'],
                     "YOUR_TRAJET": trj,
                     "TIME": "pas definie",
                     "LONG": "pas definie"
@@ -31,3 +31,36 @@ def get_direction(depart, fin):
     return cible
 
 # print(get_direction('jovena', 'manjarisoa'))
+
+
+def get_plaque(bus_id):
+    # parcourir tout les elements asignees depuis la base
+    for i in bus:
+        # si id_du_user est egale a la base 
+        if( i["id"] == bus_id ):
+            return i["plaque"]
+            break
+
+def get_color(bus_id):
+    for i in bus:
+        if( i["id"] == bus_id ):
+            return i["color"]
+            break
+
+def get_bande(bus_id):
+    for i in bus:
+        if( i["id"] == bus_id ):
+            return i["bande"]
+            break
+
+def get_stop(bus_id):
+    for i in bus:
+        if( i["id"] == bus_id ):
+            return i["stop"]
+            break
+
+def get_name(bus_id):
+    for i in bus:
+        if( i["id"] == bus_id ):
+            return i["name"]
+            break
