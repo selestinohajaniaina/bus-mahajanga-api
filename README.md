@@ -16,7 +16,7 @@
 
 ## <u> FAMPIASA </u>:
 
-https://bus-mj.onrender.com/api?depart=star&fin=post
+https://bus-mj.onrender.com/api?depart=star&fin=poste
 
 - fanazavana: <br>
 depart: arret du point de depart <br>
