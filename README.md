@@ -63,7 +63,7 @@ fin: arret du point finnal
       "jardin Caylah",
       "bain douche",
       "photo sport",
-      "h\u00f4tel de ville",
+      "hôtel de ville",
       "croix rouge",
       "poste"
     ]
@@ -129,7 +129,7 @@ fin: arret du point finnal
       "tsaralaza",
       "pont blanc",
       "maman'i phillipine",
-      "rond point cit\u00e9",
+      "rond point cité",
       "rond point taxi",
       "croisement soatata",
       "secaline",
@@ -141,8 +141,8 @@ fin: arret du point finnal
       "barea",
       "airtel",
       "solima",
-      "lyc\u00e9e technique",
-      "\u00e9levage",
+      "lycée technique",
+      "élevage",
       "roche rouge",
       "maison verte",
       "jardin d'amour",
