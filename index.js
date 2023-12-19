@@ -15,6 +15,8 @@ app.use(cors({
 // utilser le bodyParser pour lire le contenu json d'URL
 app.use(bodyParser.json());
 
+app.use(express.static(path.join(__dirname, 'css')));
+
 // obtenir un trajet
 app.get('/api', async (req, res) => {
   let depart = req.query.depart;
