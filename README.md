@@ -27,16 +27,49 @@
   console.log(getAllBus());
 ```
 ```json
-[{"BUS_ID":3,"BUS_NAME":"ligne 3"},{"BUS_ID":5,"BUS_NAME":"ligne 5"},{"BUS_ID":70,"BUS_NAME":"ligne 7"},{"BUS_ID":71,"BUS_NAME":"ligne 7"},{"BUS_ID":8,"BUS_NAME":"ligne 8"},{"BUS_ID":11,"BUS_NAME":"ligne 11"},{"BUS_ID":15,"BUS_NAME":"ligne 15"}]
+[
+  {
+    "BUS_ID":3,
+    "BUS_NAME":"ligne 3"
+  },
+  {
+      "BUS_ID":5,
+      "BUS_NAME":"ligne 5"
+  },
+  {
+        "BUS_ID":70,
+        "BUS_NAME":"ligne 7"
+  },
+  {
+    "BUS_ID":71,
+    "BUS_NAME":"ligne 7"
+  },
+  {
+    "BUS_ID":8,
+    "BUS_NAME":"ligne 8"
+  },
+  {
+    "BUS_ID":11,
+    "BUS_NAME":"ligne 11"
+  },
+  {
+    "BUS_ID":15,
+    "BUS_NAME":"ligne 15"
+  }
+]
 ```
 
 ```js
   // maka ny lisitry ny arret rehetra
-  console.log(getAllStop()());
+  console.log(getAllStop());
+
+  // maka ny lisitry ny arret @bus mitondra id=3
+  console.log(getStop(3));
+
+  // maka ny lisitry ny bus mandalo @ arret de depart='star' sy arrive='poste'
+  console.log(getBus('star', 'poste'));
 ```
-```json
-[{"BUS_ID":3,"BUS_NAME":"ligne 3"},{"BUS_ID":5,"BUS_NAME":"ligne 5"},{"BUS_ID":70,"BUS_NAME":"ligne 7"},{"BUS_ID":71,"BUS_NAME":"ligne 7"},{"BUS_ID":8,"BUS_NAME":"ligne 8"},{"BUS_ID":11,"BUS_NAME":"ligne 11"},{"BUS_ID":15,"BUS_NAME":"ligne 15"}]
-```
+## <u> API </u>:
 
 https://bus-mj.onrender.com/api?depart=star&fin=poste
 
