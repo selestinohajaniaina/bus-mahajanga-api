@@ -39,11 +39,28 @@
         {
             "id": 8,
             "name": "ligne 8",
-            "trajet": ["belobaka", "sotema", "mahabibo", "majunga be", "la corniche", "mahavoky atsimo", "tsaramandroso", "mahabibo", "sotema", "belobaka"],
+            "trajet": [],
             "stop": ["raseta", "poteau mainty", "eponge", "mazava huile", "bar nene", "pont blanc", "tsaralaza", "maki-loc", "bata", "patel", "mahabibo", "bain douche", "jardin Caylah", "manjarisoa", "galana", "bizo", "pompy", "bazary antanimasaja", "miaramila", "plaque", "lalatapaka", "jovena", "croisement cimetiere", "..."],
             "plaque": "",
             "color": "blanc",
             "bande": "rouge"
+        },
+        {
+            "id": 11,
+            "name": "ligne 11",
+            "trajet": [],
+            "plaque": "",
+            "color": "blanc",
+            "bande": "vert"
+        },
+        {
+            "id": 15,
+            "name": "ligne 15",
+            "trajet": [],
+            "stop": ["Antanimalandy", "Plaque", "Mangabe", "Fokotany", "Arabo", "Bazary kely", "Vavahady", "croisement cimetière", "Jovena", "Lala-tapaka", "Plaque", "Miaramila", "Bazary antanimasaja", "Pompy", "Bizo", "Antafa", "Galana", "Manjarisoa", "Jardin cayla", "Bain douche", "police", "jentilal", "patel", "makiloc", "tsaralaza", "bar néné", "jirama", "mazava huile", "eponge", "poto mainty", "raseta", "croisement amborovy", "csb", "epp manarapenitra", "petite plage", "belinta", "grand pavois"],
+            "plaque": "",
+            "color": "jaune",
+            "bande": "vert"
         }
     ]
 }
