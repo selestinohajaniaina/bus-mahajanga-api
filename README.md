@@ -23,8 +23,15 @@
 ## <u> usage </u>:
 
 ```js
+// declarer une fonction asynchrone
+async function main() {
+
   // maka ny lisitry ny bus rehetra
-  console.log(getAllBus());
+  console.log(await getAllBus());
+
+}
+
+main();
 ```
 ```json
 [
@@ -60,14 +67,21 @@
 ```
 
 ```js
+// declarer une fonction asynchrone
+async function main() {
+
   // maka ny lisitry ny arret rehetra
-  console.log(getAllStop());
+  console.log(await getAllStop());
 
   // maka ny lisitry ny arret @bus mitondra id=3
-  console.log(getStop(3));
+  console.log(await getStop(3));
 
   // maka ny lisitry ny bus mandalo @ arret de depart='star' sy arrive='poste'
-  console.log(getBus('star', 'poste'));
+  console.log(await getBus('star', 'poste'));
+
+}
+
+main();
 ```
 ## <u> API </u>:
 
