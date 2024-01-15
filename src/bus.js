@@ -48,7 +48,7 @@ const datao = [
         "id": 11,
         "name": "ligne 11",
         "trajet": [""],
-        "stop": ["université ambondrona", "alexia", "masera", "mangabe (tsararano)", "misy arret hafa koa eto f ts aiko f ef nandalovako ", "vim", "be fleur", "esige", "bazary antanimasaja", "pompy mahatsinjo", "biso", "atafa", "galana", "manjarisoa", "jardin cayla", "bain douche", "police mahabibo", "jentilal (concoorde)", "patel (5 etage)", "makiloc", "maternite (csb avy aty ambony)", "bois sacrÉ", "gymnase", "poste ( don bosco)", "bonet", "tribunal", "bfv", "bord (finance)", "cnaps taloha", "jardin damour", "maison vert", "boina beach(caveau,elevage)", "lycee technique (terrain)", "terminus"],
+        "stop": ["université ambondrona", "alexia", "masera", "mangabe (tsararano)", "vim", "be fleur", "esige", "bazary antanimasaja", "pompy mahatsinjo", "biso", "atafa", "galana", "manjarisoa", "jardin cayla", "bain douche", "police mahabibo", "jentilal (concoorde)", "patel (5 etage)", "makiloc", "maternite (csb avy aty ambony)", "bois sacrÉ", "gymnase", "poste ( don bosco)", "bonet", "tribunal", "bfv", "bord (finance)", "cnaps taloha", "jardin damour", "maison vert", "boina beach(caveau,elevage)", "lycee technique (terrain)", "terminus"],
         "plaque": "",
         "color": "blanc",
         "bande": "vert"
