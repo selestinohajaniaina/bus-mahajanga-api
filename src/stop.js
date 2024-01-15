@@ -1,6 +1,10 @@
 const { read_contenu } = require('./read_contenu.js')
 
 // declarer un fonction asyncromme pour avoir tous les listes des arrets
+/**
+ * declarer un fonction asyncromme pour avoir tous les listes des arrets
+ * @returns
+ */
 async function getAllStop() {
 
     // assigner a un variable les contenus du function read_contenu()
