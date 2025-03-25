@@ -1,16 +1,14 @@
-const { datao } = require('./bus.js')
+const data = require('../data/bus')
 
-// declarer un fonction asyncronisee pour lire un fichier
+/**
+ * read the data of file
+ * @returns { BUS{}, STOPS{}, BUS_STOPS{} }
+ */
 async function read_contenu() {
-
     try {
-
-        // retourner la variable datao qui contien tous les donnees
-        return datao;
-
+        return data;
     } catch (err) {
-
-        // signaler s'il y une errerur
+        // if file has error to read
         console.error('Erreur lors de la lecture du fichier:', err);
         throw err;
 
