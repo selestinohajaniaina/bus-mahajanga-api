@@ -24,6 +24,7 @@ async function getAllStop() {
  */
 async function getStop(bus_id) {
 
+  // get the data from data loaded
   const bus_contenu = await read_contenu();
 
   // get the stops of bus
