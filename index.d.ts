@@ -9,7 +9,7 @@ declare module 'bus-mj' {
     band: string[],
     double: boolean
   }];
-  export function getAllStop(): { key: string, value: string };
+  export function getAllStop(): { key: string, value: string }[];
   export function getStop(busId: string): string[];
   export function getStopLabel(stopId: string): string[];
 }

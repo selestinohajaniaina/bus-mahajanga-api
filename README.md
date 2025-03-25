@@ -17,226 +17,82 @@
 ## <u> import </u>:
 
 ```js
-  import { getBus, getAllBus, getAllStop, getStop } from 'bus-mj';
+  import { getBus, getAllBus, getAllStop, getStop, getStopLabel } from 'bus-mj';
 ```
 
 ## <u> usage </u>:
 
+- List Bus
 ```js
-// declarer une fonction asynchrone
-async function main() {
-
   // maka ny lisitry ny bus rehetra
-  console.log(await getAllBus());
-
-}
-
-main();
+  console.log(getAllBus());
 ```
-```json
-[
+```typescript
+  // result
   {
-    "BUS_ID":3,
-    "BUS_NAME":"ligne 3"
-  },
-  {
-      "BUS_ID":5,
-      "BUS_NAME":"ligne 5"
-  },
-  {
-        "BUS_ID":70,
-        "BUS_NAME":"ligne 7"
-  },
-  {
-    "BUS_ID":71,
-    "BUS_NAME":"ligne 7"
-  },
-  {
-    "BUS_ID":8,
-    "BUS_NAME":"ligne 8"
-  },
-  {
-    "BUS_ID":11,
-    "BUS_NAME":"ligne 11"
-  },
-  {
-    "BUS_ID":15,
-    "BUS_NAME":"ligne 15"
+    L3: {
+      label: 'ligne 3',
+      color: 'yellow',
+      band: ['blue']
+    },
+    ...
   }
-]
 ```
 
+- List Stops
 ```js
-// declarer une fonction asynchrone
-async function main() {
-
-  // maka ny lisitry ny arret rehetra
-  console.log(await getAllStop());
-
-  // maka ny lisitry ny arret @bus mitondra id=3
-  console.log(await getStop(3));
-
-  // maka ny lisitry ny bus mandalo @ arret de depart='star' sy arrive='poste'
-  console.log(await getBus('star', 'poste'));
-
-}
-
-main();
+  // maka ny lisitry ny bus rehetra
+  console.log(getAllStop());
 ```
-## <u> API </u>:
-
-https://bus-mj.onrender.com/api?depart=star&fin=poste
-
-- fanazavana: <br>
-depart: arret du point de depart <br>
-fin: arret du point finnal
-
-- ny azo: <br>
-```json
-{
-    "BUS_ID": "identifiant ny bus",
-    "BUS_NAME": "anaran'ilay bus",
-    "BUS_PLAQUE": "lokon'ilay plaque",
-    "LONG": "halaviran'ny lalana",
-    "TIME": "fotoana lany",
-    "YOUR_TRAJET": ["filaharan'ireo arret handalovana"]
-}
+```typescript
+// result
+  [
+    { key: 'S48', value: 'jardin kaylah' },
+    { key: 'S49', value: 'jean paul 2' },
+    { key: 'S50', value: 'jentilal' },
+    ...
+  ]
 ```
 
-- valiny ilay ohatra:
-```json
+- Get Label of Stop's id
+```js
+  // maka ny anaran'ny arret 
+  console.log(getStopLabel("S48"));
+```
+```typescript
+  // result
+  jardin kaylah
+```
 
-[
-  {
-    "BUS_ID": 3,
-    "BUS_NAME": "ligne 3",
-    "BUS_PLAQUE": "",
-    "LONG": 22,
-    "TIME": 1,
-    "YOUR_TRAJET": [
-      "star",
-      "plaque 7",
-      "loterana",
-      "bazary kely",
-      "csb",
-      "croisement cimetiere",
-      "jovena",
-      "lalatapaka",
-      "plaque",
-      "miaramila",
-      "bazary antanimasaja",
-      "pompy",
-      "bizo",
-      "galana",
-      "manjarisoa",
-      "jardin Caylah",
-      "bain douche",
-      "photo sport",
-      "hôtel de ville",
-      "croix rouge",
-      "poste"
-    ]
-  },
-  {
-    "BUS_ID": 70,
-    "BUS_NAME": "ligne 7",
-    "BUS_PLAQUE": "bleu",
-    "LONG": 32,
-    "TIME": 51,
-    "YOUR_TRAJET": [
-      "star",
-      "plaque 7",
-      "loterana",
-      "bazary kely",
-      "csb",
-      "croisement cimetiere",
-      "jovena",
-      "lalatapaka",
-      "plaque",
-      "miaramila",
-      "bazary antanimasaja",
-      "pompy",
-      "bizo",
-      "galana",
-      "manjarisoa",
-      "jardin Caylah",
-      "galax",
-      "mahabibo",
-      "h\u00f4tel de ville",
-      "croix rouge",
-      "poste"
-    ]
-  },
-  {
-    "BUS_ID": 71,
-    "BUS_NAME": "ligne 7",
-    "BUS_PLAQUE": "rouge",
-    "LONG": 5,
-    "TIME": 53,
-    "YOUR_TRAJET": [
-      "star",
-      "plaque 7",
-      "loterana",
-      "bazary kely",
-      "csb",
-      "croisement cimetiere",
-      "jovena",
-      "lalatapaka",
-      "plaque",
-      "miaramila",
-      "bazary antanimasaja",
-      "pompy",
-      "bizo",
-      "galana",
-      "manjarisoa",
-      "jardin Caylah",
-      "bain douche",
-      "mahabibo",
-      "patel",
-      "bata",
-      "maki-loc",
-      "tsaralaza",
-      "pont blanc",
-      "maman'i phillipine",
-      "rond point cité",
-      "rond point taxi",
-      "croisement soatata",
-      "secaline",
-      "bar rotsaka",
-      "croisement bloc",
-      "pharmacie",
-      "hopital manarapenitra",
-      "caserne",
-      "barea",
-      "airtel",
-      "solima",
-      "lycée technique",
-      "élevage",
-      "roche rouge",
-      "maison verte",
-      "jardin d'amour",
-      "nandrasana",
-      "cnaps",
-      "bord",
-      "akbar",
-      "kakal",
-      "boa",
-      "Bazary be",
-      "score",
-      "poste"
-    ]
-  }
-]
+- Get Stop of Bus
+```js
+  // maka ny arret ny bus
+  console.log(getStop("L3"));
+```
+```typescript
+  // result
+  ['S8',  'S72', 'S46', ..., 'S18']
+```
 
+- Get The Right Bus
+```js
+  // maka ny lisitry ny bus mandalo @ arret de depart S48='jardin kaylah' sy arrive S41='Galana'
+  console.log(getBus('S48', 'S41'));
+```
+```typescript
+  // result
+  [
+    { BUS_ID: 'L3', ROAD: [ 'S48', 'S63', 'S41' ] },
+    ...
+  ]
 ```
 
 ## <u> Mbola hanampiana azy </u>:
 
-+ donnee de ligne du BUS: 6, 9, 10, 11, 12, 15, 18
++ donnee de ligne du BUS: 6, 9, 12, 18
 + temps de circulation
 + longeur
 + ireo arret ao anaty ny fokotany irray
-+ depart=_fokotany_ & arrivee=_fokotany_
 + mamatatra ny hoe mbola miasa ve io bus io @zao (maka ny heure actuel)
 + mifindra BUS raha tokony hifindra rehefa tonga @arret iray (Oh: belobaka vers petit plage)
 + ...

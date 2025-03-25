@@ -1,17 +1,17 @@
 module.exports = {
     "BUS": {
-        "L3": { "label": "ligne 3", "color": "yellow", "band": ["blue"], "double": false },
-        "L5": { "label": "ligne 5", "color": "white", "band": ["red"], "double": false },
-        "L6": { "label": "ligne 6", "color": "white", "band": ["green"], "double": false },
-        "L70": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"], "double": true },
-        "L71": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"], "double": true },
-        "L8": { "label": "ligne 9", "color": "white", "band": ["red"], "double": false },
-        "L9": { "label": "ligne 9", "color": "blue", "band": ["yellow"], "double": false },
-        "L11": { "label": "ligne 11", "color": "white", "band": ["green"], "double": false },
-        "L12": { "label": "ligne 12", "color": "white", "band": ["yellow"], "double": false },
-        "L15": { "label": "ligne 15", "color": "yellow", "band": ["green"], "double": false },
-        "L180": { "label": "ligne 18", "color": "yellow", "band": ["red"], "double": true },
-        "L181": { "label": "ligne 18", "color": "yellow", "band": ["red"], "double": true }
+        "L3": { "label": "ligne 3", "color": "yellow", "band": ["blue"] },
+        "L5": { "label": "ligne 5", "color": "white", "band": ["red"] },
+        "L6": { "label": "ligne 6", "color": "white", "band": ["green"] },
+        "L70": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"] },
+        "L71": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"] },
+        "L8": { "label": "ligne 9", "color": "white", "band": ["red"] },
+        "L9": { "label": "ligne 9", "color": "blue", "band": ["yellow"] },
+        "L11": { "label": "ligne 11", "color": "white", "band": ["green"] },
+        "L12": { "label": "ligne 12", "color": "white", "band": ["yellow"] },
+        "L15": { "label": "ligne 15", "color": "yellow", "band": ["green"] },
+        "L180": { "label": "ligne 18", "color": "yellow", "band": ["red"] },
+        "L181": { "label": "ligne 18", "color": "yellow", "band": ["red"] }
     },
     "STOPS": {
         "S1": "airtel",
@@ -119,6 +119,7 @@ module.exports = {
         "L11": ["S92", "S3", "S64", "S61", "S93", "S16", "S39", "S13", "S76", "S21", "S7", "S41", "S63", "S48", "S8", "S75", "S50", "S69", "S59", "S65", "S25", "S44", "S78", "S26", "S90", "S20", "S27", "S29", "S47", "S58", "S24", "S56", "S89"],
         "L12": [],
         "L15": ["S5", "S73", "S49", "S40", "S88", "S6", "S15", "S35", "S32", "S52", "S54", "S73", "S67", "S13", "S76", "S21", "S41", "S63", "S48", "S8", "S75", "S50", "S69", "S59", "S91", "S9", "S51", "S66", "S37", "S79", "S80", "S30", "S35", "S38", "S70", "S17", "S43"],
-        "L18": []
+        "L180": [],
+        "L181": []
     }
 }
