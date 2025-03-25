@@ -1,18 +1,15 @@
-// index.d.ts
-
 declare module 'bus-mj' {
-  export function getBus(arg1: string, arg2: string): [{
-    BUS_ID: number,
-    BUS_NAME: string,
-    BUS_PLAQUE: string,
-    LONG: string,
-    TIME: string,
-    YOUR_TRAJET: string[]
+  export function getBus(start: string, end: string): [{
+    BUS_ID: string,
+    ROAD: string[]
   }];
   export function getAllBus(): [{
-    BUS_ID: number,
-    BUS_NAME: string
+    label: string,
+    color: string,
+    band: string[],
+    double: boolean
   }];
-  export function getAllStop(): string[];
-  export function getStop(arg1: number): string[];
+  export function getAllStop(): { key: string, value: string };
+  export function getStop(busId: string): string[];
+  export function getStopLabel(stopId: string): string[];
 }

@@ -1,17 +1,17 @@
 module.exports = {
     "BUS": {
-        "L3": { "label": "ligne 3", "color": "yellow", "band": ["blue"] },
-        "L5": { "label": "ligne 5", "color": "white", "band": ["red"] },
-        "L6": { "label": "ligne 6", "color": "white", "band": ["green"] },
-        "L70": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"] },
-        "L71": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"] },
-        "L8": { "label": "ligne 9", "color": "white", "band": ["red"] },
-        "L9": { "label": "ligne 9", "color": "blue", "band": ["yellow"] },
-        "L11": { "label": "ligne 11", "color": "white", "band": ["green"] },
-        "L12": { "label": "ligne 12", "color": "white", "band": ["yellow"] },
-        "L15": { "label": "ligne 15", "color": "yellow", "band": ["green"] },
-        "L180": { "label": "ligne 18", "color": "yellow", "band": ["red"] },
-        "L181": { "label": "ligne 18", "color": "yellow", "band": ["red"] }
+        "L3": { "label": "ligne 3", "color": "yellow", "band": ["blue"], "double": false },
+        "L5": { "label": "ligne 5", "color": "white", "band": ["red"], "double": false },
+        "L6": { "label": "ligne 6", "color": "white", "band": ["green"], "double": false },
+        "L70": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"], "double": true },
+        "L71": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"], "double": true },
+        "L8": { "label": "ligne 9", "color": "white", "band": ["red"], "double": false },
+        "L9": { "label": "ligne 9", "color": "blue", "band": ["yellow"], "double": false },
+        "L11": { "label": "ligne 11", "color": "white", "band": ["green"], "double": false },
+        "L12": { "label": "ligne 12", "color": "white", "band": ["yellow"], "double": false },
+        "L15": { "label": "ligne 15", "color": "yellow", "band": ["green"], "double": false },
+        "L180": { "label": "ligne 18", "color": "yellow", "band": ["red"], "double": true },
+        "L181": { "label": "ligne 18", "color": "yellow", "band": ["red"], "double": true }
     },
     "STOPS": {
         "S1": "airtel",
@@ -109,11 +109,11 @@ module.exports = {
         "S93": "vim"
     },
     "BUS_STOPS": {
-        "L3": ["S18", "S87", "S74", "S55", "S49", "S40", "S88", "S6", "S15", "S35", "S32", "S52", "S54", "S73", "S67", "S13", "S76", "S21", "S41", "S63", "S48", "S8", "S72", "S46", "S34", "S78", "S23", "S90", "S20", "S4"],
+        "L3": ["S87", "S74", "S55", "S49", "S40", "S88", "S6", "S15", "S35", "S32", "S52", "S54", "S73", "S67", "S13", "S76", "S21", "S41", "S63", "S48", "S8", "S72", "S46", "S34", "S78", "S23", "S90", "S20", "S4"],
         "L5": ["S19", "S66", "S51", "S9", "S77", "S91", "S59", "S69", "S72", "S46", "S34", "S78", "S23", "S90", "S20", "S4"],
         "L6": [],
-        "L70": ["S8", "S69", "S59", "S91", "S77", "S60", "S82", "S83", "S33", "S85", "S10", "S31", "S71", "S45", "S28", "S11", "S1", "S86", "S56", "S36", "S81", "S58", "S47", "S68", "S29", "S27", "S2", "S53", "S22", "S14", "S84", "S78", "S34", "S46", "S57", "S42", "S48", "S63", "S41", "S21", "S76", "S13", "S67", "S73", "S54", "S52", "S32", "S35", "S15", "S6", "S88", "S40", "S49", "S55", "S74", "S87", "S18"],
-        "L71": ["S8", "S72", "S46", "S34", "S78", "S84", "S14", "S22", "S53", "S2", "S27", "S29", "S68", "S47", "S58", "S81", "S36", "S56", "S86", "S1", "S11", "S28", "S45", "S71", "S31", "S10", "S85", "S33", "S83", "S82", "S60", "S77", "S91", "S59", "S12", "S69", "S57", "S8", "S48", "S63", "S41", "S21", "S76", "S13", "S67", "S73", "S54", "S52", "S32", "S35", "S15", "S6", "S88", "S40", "S49", "S55", "S74", "S87", "S18"],
+        "L70": ["S8", "S75", "S50", "S69", "S59", "S91", "S77", "S60", "S82", "S83", "S33", "S85", "S10", "S31", "S71", "S45", "S28", "S11", "S1", "S86", "S56", "S36", "S81", "S58", "S47", "S68", "S29", "S27", "S2", "S53", "S22", "S14", "S84", "S78", "S34", "S46", "S57", "S42", "S48", "S63", "S41", "S21", "S76", "S13", "S67", "S73", "S54", "S52", "S32", "S35", "S15", "S6", "S88", "S40", "S49", "S55", "S74", "S87", "S18"],
+        "L71": ["S8", "S72", "S46", "S34", "S78", "S84", "S14", "S22", "S53", "S2", "S27", "S29", "S68", "S47", "S58", "S81", "S36", "S56", "S86", "S1", "S11", "S28", "S45", "S71", "S31", "S10", "S85", "S33", "S83", "S82", "S60", "S77", "S91", "S59", "S69", "S50", "S57", "S42", "S48", "S63", "S41", "S21", "S76", "S13", "S67", "S73", "S54", "S52", "S32", "S35", "S15", "S6", "S88", "S40", "S49", "S55", "S74", "S87", "S18"],
         "L8": ["S80", "S79", "S37", "S66", "S51", "S9", "S77", "S91", "S59", "S12", "S69", "S57", "S8", "S48", "S63", "S41", "S21", "S76", "S13", "S67", "S73", "S54", "S52", "S32", "S62"],
         "L9": [],
         "L11": ["S92", "S3", "S64", "S61", "S93", "S16", "S39", "S13", "S76", "S21", "S7", "S41", "S63", "S48", "S8", "S75", "S50", "S69", "S59", "S65", "S25", "S44", "S78", "S26", "S90", "S20", "S27", "S29", "S47", "S58", "S24", "S56", "S89"],
@@ -122,5 +122,3 @@ module.exports = {
         "L18": []
     }
 }
-
-// module.exports = { data }

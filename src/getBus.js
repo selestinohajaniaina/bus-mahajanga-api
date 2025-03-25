@@ -1,20 +1,17 @@
-const { read_contenu } = require('./read_contenu.js')
+const { BUS, BUS_STOPS } = require('../data/bus.js');
 
 /**
  * find the right bus of trajet giving
- * @param {string} d STOP_ID - begin of Road
- * @param {string} f STOP_ID - end of Road
+ * @param {string} begin STOP_ID - begin of Road
+ * @param {string} end STOP_ID - end of Road
  * @returns {Number[]}
  */
-async function getBus(begin, end) {
-
-    // get the data from data loaded
-    const bus_contenu = await read_contenu();
+function getBus(begin, end) {
 
     let bus = [];
 
     // format object STOPS to { BUS_ID: string, ROAD: string[] }
-    Object.entries(bus_contenu.BUS_STOPS).map((e)=> bus.push({BUS_ID: e[0], ROAD: e[1]}))
+    Object.entries(BUS_STOPS).map((e)=> bus.push({BUS_ID: e[0], ROAD: e[1]}))
     
     let cible = [];
 
@@ -33,12 +30,21 @@ async function getBus(begin, end) {
             /**
              * cut the road just interval of trajet
              * [condition]: Verify if the index of begin is less than end
-             * [condition true]: slice the array ROAD in beginPosition and endPosition
-             * [condition false]: revese the slice of ROAD array
+             * [else condition]: Verify if the index of begin is more than end
              */
-            trajet = beginPosition < endPosition ? item.ROAD.slice(beginPosition, endPosition + 1) : item.ROAD.slice(endPosition, beginPosition + 1).reverse();
+            if(beginPosition < endPosition) {
 
-            cible.push({BUS_ID: item.BUS_ID, ROAD: trajet});
+                // slice the array ROAD in beginPosition and endPosition
+                trajet = item.ROAD.slice(beginPosition, endPosition + 1);
+                cible.push({BUS_ID: item.BUS_ID, ROAD: trajet});
+
+            } else if (beginPosition > endPosition) {
+
+                // revese the slice of ROAD array
+                trajet = item.ROAD.slice(endPosition, beginPosition + 1).reverse();
+                cible.push({BUS_ID: item.BUS_ID, ROAD: trajet});
+            }
+
         }
 
     }
@@ -50,12 +56,9 @@ async function getBus(begin, end) {
  * fetch all bus
  * @returns { BUS{} }
  */
-async function getAllBus() {
+function getAllBus() {
 
-    // get the data from data loaded
-    const bus_contenu = await read_contenu();
-
-    return bus_contenu.BUS;
+    return BUS;
 }
 
 module.exports = { getBus, getAllBus }

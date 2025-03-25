@@ -1,18 +1,15 @@
-const { read_contenu } = require('./read_contenu.js')
+const { STOPS, BUS_STOPS } = require('../data/bus.js');
 
 /**
  * list all STOPS in data
  * @returns { [] }
  */
-async function getAllStop() {
-
-    // get the data from data loaded
-    const bus_contenu = await read_contenu();
+function getAllStop() {
 
     let stops = [];
     
     // format object STOPS to { key: string, value: string }
-    Object.entries(bus_contenu.STOPS).map((e)=> stops.push({key: e[0], value: e[1]}))
+    Object.entries(STOPS).map((e)=> stops.push({key: e[0], value: e[1]}))
     
     return stops;
   }
@@ -22,13 +19,15 @@ async function getAllStop() {
  * @param {String} bus_id id of bus L3 or L5 ...
  * @returns {}
  */
-async function getStop(bus_id) {
-
-  // get the data from data loaded
-  const bus_contenu = await read_contenu();
+function getStop(bus_id) {
 
   // get the stops of bus
-  return bus_contenu.BUS_STOPS[bus_id]
+  return BUS_STOPS[bus_id]
 }
 
-module.exports = { getAllStop, getStop }
+function getStopLabel(stop_id) {
+
+  return STOPS[stop_id];
+}
+
+module.exports = { getAllStop, getStop, getStopLabel }
