@@ -61,4 +61,13 @@ function getAllBus() {
     return BUS;
 }
 
-module.exports = { getBus, getAllBus }
+/**
+ * fetch the description of bus
+ * @param {string} busId reference of bus
+ * @returns description of bus
+ */
+function busAt(busId) {
+    return BUS[busId];
+}
+
+module.exports = { getBus, getAllBus, busAt }
