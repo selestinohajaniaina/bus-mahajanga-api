@@ -11,5 +11,5 @@ declare module 'bus-mj' {
   export function busAt(busId: string): {label: string,color: string,band: string[]};
   export function getAllStop(): { key: string, value: string }[];
   export function getStop(busId: string): string[];
-  export function getStopLabel(stopId: string): string[];
+  export function getStopLabel(stopId: string): string;
 }

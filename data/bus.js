@@ -1,17 +1,17 @@
 module.exports = {
     "BUS": {
-        "L3": { "label": "ligne 3", "color": "yellow", "band": ["blue"] },
-        "L5": { "label": "ligne 5", "color": "white", "band": ["red"] },
-        "L6": { "label": "ligne 6", "color": "white", "band": ["green"] },
-        "L70": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"] },
-        "L71": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"] },
-        "L8": { "label": "ligne 9", "color": "white", "band": ["red"] },
-        "L9": { "label": "ligne 9", "color": "blue", "band": ["yellow"] },
-        "L11": { "label": "ligne 11", "color": "white", "band": ["green"] },
-        "L12": { "label": "ligne 12", "color": "white", "band": ["yellow"] },
-        "L15": { "label": "ligne 15", "color": "yellow", "band": ["green"] },
-        "L180": { "label": "ligne 18", "color": "yellow", "band": ["red"] },
-        "L181": { "label": "ligne 18", "color": "yellow", "band": ["red"] }
+        "L3": { "label": "ligne 3", "color": "yellow", "band": ["blue"], "board": null },
+        "L5": { "label": "ligne 5", "color": "white", "band": ["red"], "board": null },
+        "L6": { "label": "ligne 6", "color": "white", "band": ["green"], "board": null },
+        "L70": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"], "board": "red" },
+        "L71": { "label": "ligne 7", "color": "yellow", "band": ["blue", "red"], "board": "blue" },
+        "L8": { "label": "ligne 9", "color": "white", "band": ["red"], "board": null },
+        "L9": { "label": "ligne 9", "color": "blue", "band": ["yellow"], "board": null },
+        "L11": { "label": "ligne 11", "color": "white", "band": ["green"], "board": null },
+        "L12": { "label": "ligne 12", "color": "white", "band": ["yellow"], "board": null },
+        "L15": { "label": "ligne 15", "color": "yellow", "band": ["green"], "board": null },
+        "L180": { "label": "ligne 18", "color": "yellow", "band": ["red"], "board": "red" },
+        "L181": { "label": "ligne 18", "color": "yellow", "band": ["red"], "board": "green" }
     },
     "STOPS": {
         "S1": "airtel",
