@@ -6,7 +6,8 @@ declare module 'bus-mj' {
   export function getAllBus(): [{
     label: string,
     color: string,
-    band: string[]
+    band: string[],
+    board: string | null
   }];
   export function busAt(busId: string): {label: string,color: string,band: string[], board: string | null};
   export function getAllStop(): { key: string, value: string }[];
