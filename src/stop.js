@@ -1,4 +1,9 @@
-const { STOPS, BUS_STOPS } = require('../data/bus.js');
+const relations = require('../data/relations');
+const nodes = require('../data/nodes');
+
+function findNodeByRef(ref) {
+    return nodes.find(e => e.id === ref);
+}
 
 /**
  * list all STOPS in data
@@ -6,28 +11,41 @@ const { STOPS, BUS_STOPS } = require('../data/bus.js');
  */
 function getAllStop() {
 
-    let stops = [];
-    
-    // format object STOPS to { key: string, value: string }
-    Object.entries(STOPS).map((e)=> stops.push({key: e[0], value: e[1]}))
-    
-    return stops;
-  }
+  let stops = [];
+
+  relations.map(relation => {
+    relation.members.forEach(member => {
+      if (member.type === 'node') {
+        let memberExits = stops.find(stop => stop.id === member.ref);
+        if (!memberExits)
+        stops.push( findNodeByRef(member.ref) );
+      }
+    });
+  });
+
+  return stops;
+}
 
 /**
  * list the stop of bus
- * @param {String} bus_id id of bus L3 or L5 ...
+ * @param {number} bus_id id of bus L3 or L5 ...
  * @returns {}
  */
 function getStop(bus_id) {
-
+  const bus = relations.find(bus => bus.id == bus_id);
   // get the stops of bus
-  return BUS_STOPS[bus_id]
+  let stops = [];
+  bus.members.forEach(member => {
+      if (member.type === 'node') {
+        stops.push( findNodeByRef(member.ref) );
+      }
+    });
+  return stops;
 }
 
-function getStopLabel(stop_id) {
+// function getStopLabel(stop_id) {
 
-  return STOPS[stop_id];
-}
+//   return STOPS[stop_id];
+// }
 
-module.exports = { getAllStop, getStop, getStopLabel }
+module.exports = { getAllStop, getStop }

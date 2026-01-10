@@ -1,16 +1,39 @@
+type Relation = {
+  type: string,
+  id: number,
+  members: [{
+      type: string,
+      ref: number,
+      role: string,
+      label: string
+    }],
+  tags: {
+    colour: string,
+    fee: string,
+    from: string,
+    name: string,
+    network: string,
+    opening_hours: string,
+    operator: string,
+    "public_transport:version": string,
+    ref: string,
+    route: string,
+    to: string,
+    type: string
+  }
+};
+
+type Stop = {
+  type: string,
+  id: number,
+  lat: number,
+  lon: number
+}
+
 declare module 'bus-mj' {
-  export function getBus(start: string, end: string): [{
-    BUS_ID: string,
-    ROAD: string[]
-  }];
-  export function getAllBus(): [{
-    label: string,
-    color: string,
-    band: string[],
-    board: string | null
-  }];
-  export function busAt(busId: string): {label: string,color: string,band: string[], board: string | null};
-  export function getAllStop(): { key: string, value: string }[];
-  export function getStop(busId: string): string[];
-  export function getStopLabel(stopId: string): string;
+  export function getBus(start: number, end: number): Relation[];
+  export function getAllBus(): Relation[];
+  export function busAt(busId: number): Relation;
+  export function getAllStop(): Stop[];
+  export function getStop(busId: number): Stop[];
 }
