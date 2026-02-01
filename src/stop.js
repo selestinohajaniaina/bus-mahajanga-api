@@ -17,8 +17,11 @@ function getAllStop() {
     relation.members.forEach(member => {
       if (member.type === 'node') {
         let memberExits = stops.find(stop => stop.id === member.ref);
-        if (!memberExits)
-        stops.push( findNodeByRef(member.ref) );
+        if (!memberExits) {
+          let node = findNodeByRef(member.ref);
+          node.label = member.label;
+          stops.push(node);
+        }
       }
     });
   });
@@ -37,7 +40,9 @@ function getStop(bus_id) {
   let stops = [];
   bus.members.forEach(member => {
       if (member.type === 'node') {
-        stops.push( findNodeByRef(member.ref) );
+        let node = findNodeByRef(member.ref);
+        node.label = member.label;
+        stops.push(node);
       }
     });
   return stops;
