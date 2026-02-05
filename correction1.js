@@ -134,23 +134,6 @@ function appendLabelToNodeObject(ref, label) {
 
 
 let ancien_nodes = getData('nodes');
-let new_nodes = getData('new_nodes');
-
-let htmlgeted = getDataFromHtml('data_osm');
-
-// ancien_nodes.map( ancien_node => {
-//     new_nodes.map( new_node => {
-//         if( ancien_node.lat.toFixed(5) == new_node.lat.toFixed(5) && ancien_node.lon.toFixed(5) == new_node.lon.toFixed(5) ) {
-//             ancien_node.label = new_node.label;
-//             // console.log(ancien_node.lat.toFixed(5), new_node.lat.toFixed(5), ancien_node.lon.toFixed(5), new_node.lon.toFixed(5), new_node.label );
-//         }
-        
-//     });
-// });
-
-// console.log(jsongeted );
-// let nodesPath = path.join(__dirname, `./data/nodes.json`);
-// fs.writeFileSync(nodesPath, JSON.stringify(ancien_nodes, null, 2));
 
 
 /**
@@ -261,4 +244,22 @@ const locationsFromFile = getLocationsFromHtmlFile('data_osm');
 
 // Sauvegarder en JSON
 const jsonOutput = JSON.stringify(locationsFromFile, null, 2);
-console.log(jsonOutput);
+// console.log(jsonOutput);
+
+const new_nodes = JSON.parse(jsonOutput);
+
+ancien_nodes.map( ancien_node => {
+    new_nodes.map( new_node => {
+        if( ancien_node.lat.toFixed(5) == new_node.lat.toFixed(5) && ancien_node.lon.toFixed(5) == new_node.lon.toFixed(5) ) {
+            ancien_node.label = new_node.label;
+            // console.log(ancien_node.lat.toFixed(5), new_node.lat.toFixed(5), ancien_node.lon.toFixed(5), new_node.lon.toFixed(5), new_node.label );
+        }
+        
+    });
+});
+
+let nodesPath = path.join(__dirname, `./data/nodes.json`);
+fs.writeFileSync(nodesPath, JSON.stringify(ancien_nodes, null, 2));
+
+console.log(ancien_nodes.length, ' total nodes');
+console.log(ancien_nodes.filter((ac) => ac.label != undefined).length, " mis label");

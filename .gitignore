@@ -1,5 +1,7 @@
 node_modules
 
 correction.js
+correction1.js
 data/result.json
+data/nodes.json
 logs
