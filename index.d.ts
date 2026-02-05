@@ -27,7 +27,8 @@ type Stop = {
   type: string,
   id: number,
   lat: number,
-  lon: number
+  lon: number,
+  label: string,
 }
 
 declare module 'bus-mj' {

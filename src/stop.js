@@ -19,7 +19,7 @@ function getAllStop() {
         let memberExits = stops.find(stop => stop.id === member.ref);
         if (!memberExits) {
           let node = findNodeByRef(member.ref);
-          node.label = member.label;
+          // node.label = member.label;
           stops.push(node);
         }
       }
