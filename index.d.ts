@@ -27,9 +27,13 @@ type Stop = {
 }
 
 declare module 'bus-mj' {
+  export function findStopAll(): Stop[];
   export function findBusByOneStop(stopId: number): Bus[];
   export function findBusByTwoStop(startStopId: number, endStopId: number): Bus[];
-  export function findBusAll(): Bus[];
   export function findBusDetailById(busId: number): Bus;
-  export function findStopAll(): Stop[];
+  export function findBusAll(): Bus[];
+  export function findOperatorAll(): string[];
+  export function findZoneAll(): string[];
+  export function findBusDetailByOperator(operatorName: string): Bus[];
+  export function findOpenHoursAll(): string[];
 }

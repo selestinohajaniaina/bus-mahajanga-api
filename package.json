@@ -1,0 +1,24 @@
+{
+  "name": "bus-mj",
+  "version": "2.0.0",
+  "description": "package for BUS station in Mahajanga",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selestinohajaniaina/bus-mahajanga-api.git"
+  },
+  "keywords": [
+    "api",
+    "bus-mahajanga"
+  ],
+  "author": "selestino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selestinohajaniaina/bus-mahajanga-api/issues"
+  },
+  "homepage": "https://github.com/selestinohajaniaina/bus-mahajanga-api#readme"
+}
