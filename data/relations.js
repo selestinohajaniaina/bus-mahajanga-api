@@ -6,934 +6,487 @@ module.exports = [
       {
         "type": "node",
         "ref": 6450569024,
-        "role": "stop",
-        "label": "Imaintsoanala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2006531160,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10773584588,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740987,
-        "role": "stop",
-        "label": "Probo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740972,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740988,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740966,
-        "role": "stop",
-        "label": "Pont_blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740989,
-        "role": "stop",
-        "label": "Centre"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740963,
-        "role": "stop",
-        "label": "Plaque_mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740959,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740956,
-        "role": "stop",
-        "label": "Fokotany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740990,
-        "role": "stop",
-        "label": "Bazary kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740950,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891349,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740920,
-        "role": "stop",
-        "label": "Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740997,
-        "role": "stop",
-        "label": "Bata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740998,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740999,
-        "role": "stop",
-        "label": "5_étage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750482,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741002,
-        "role": "stop",
-        "label": "Mama_philipine_R"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741003,
-        "role": "stop",
-        "label": "Rond_point_taxi"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11043532963,
-        "role": "stop",
-        "label": "Soatata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741004,
-        "role": "stop",
-        "label": "Sekaline"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741005,
-        "role": "stop",
-        "label": "Rotsaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741006,
-        "role": "stop",
-        "label": "Jamoka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704990,
-        "role": "stop",
-        "label": "Bar_Sofa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750499,
-        "role": "stop",
-        "label": "Pharmacie"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704997,
-        "role": "stop",
-        "label": "Manarapenitra"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741008,
-        "role": "stop",
-        "label": "Cours d'appel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463703,
-        "role": "stop",
-        "label": "Caserne"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750500,
-        "role": "stop",
-        "label": "Barea"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750501,
-        "role": "stop",
-        "label": "Airtel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704984,
-        "role": "stop",
-        "label": "Solima"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463775,
-        "role": "stop",
-        "label": "Technique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463885,
-        "role": "stop",
-        "label": "Elevage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750502,
-        "role": "stop",
-        "label": "Boina beach"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741009,
-        "role": "stop",
-        "label": "Maison verte"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741010,
-        "role": "stop",
-        "label": "Jardin d'amour"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 3688380705,
-        "role": "stop",
-        "label": "Nandrasana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741012,
-        "role": "stop",
-        "label": "Corniche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750427,
-        "role": "stop",
-        "label": "Bord"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750428,
-        "role": "stop",
-        "label": "Alliance Française"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034015166,
-        "role": "stop",
-        "label": "Topo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750429,
-        "role": "stop",
-        "label": "Akbar"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750430,
-        "role": "stop",
-        "label": "Kankal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750432,
-        "role": "stop",
-        "label": "BOA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236066,
-        "role": "stop",
-        "label": "Bazary be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750434,
-        "role": "stop",
-        "label": "Colis Express"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750435,
-        "role": "stop",
-        "label": "Score"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976159,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750436,
-        "role": "stop",
-        "label": "Croix Rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750437,
-        "role": "stop",
-        "label": "Hotel de Ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750455,
-        "role": "stop",
-        "label": "Croisement Sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750456,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282192,
-        "role": "stop",
-        "label": "Vavahady sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750457,
-        "role": "stop",
-        "label": "Bazary Kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750458,
-        "role": "stop",
-        "label": "Fokontany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750459,
-        "role": "stop",
-        "label": "Television"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750460,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750461,
-        "role": "stop",
-        "label": "Plaque mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750462,
-        "role": "stop",
-        "label": "Pont blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750463,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750464,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750465,
-        "role": "stop",
-        "label": "DramCo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891352,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750467,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750468,
-        "role": "stop",
-        "label": "Plak-7"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750469,
-        "role": "stop",
-        "label": "Arret 18"
-      },
-      {
-        "type": "way",
-        "ref": 451778532,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808390,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607715,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183030,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182943,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182986,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607712,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182988,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116862770,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182949,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607709,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182966,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607708,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229398,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607707,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182942,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700467,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700466,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232322,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232323,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117006159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808394,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 351955423,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808393,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188255414,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 178953997,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965850,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808392,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965837,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965846,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778532,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -958,896 +511,472 @@ module.exports = [
       {
         "type": "node",
         "ref": 6450569024,
-        "role": "stop",
-        "label": "Imaintsoanala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2006531160,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10773584588,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740987,
-        "role": "stop",
-        "label": "Probo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740972,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740988,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740966,
-        "role": "stop",
-        "label": "Pont_blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740989,
-        "role": "stop",
-        "label": "Centre"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740963,
-        "role": "stop",
-        "label": "Plaque_mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740959,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740956,
-        "role": "stop",
-        "label": "Fokotany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740990,
-        "role": "stop",
-        "label": "Bazary kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740950,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891349,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740920,
-        "role": "stop",
-        "label": "Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976156,
-        "role": "stop",
-        "label": "Croix rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033786508,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2510234656,
-        "role": "stop",
-        "label": "Score"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976162,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976164,
-        "role": "stop",
-        "label": "Bazar Be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891339,
-        "role": "stop",
-        "label": "BOA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750431,
-        "role": "stop",
-        "label": "Jardin"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891340,
-        "role": "stop",
-        "label": "Alliance Française"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976167,
-        "role": "stop",
-        "label": "Bord"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891341,
-        "role": "stop",
-        "label": "Corniche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891342,
-        "role": "stop",
-        "label": "Nandrasana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976172,
-        "role": "stop",
-        "label": "Jardin d'amour"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891343,
-        "role": "stop",
-        "label": "Maison verte"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976175,
-        "role": "stop",
-        "label": "Boina beach"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891344,
-        "role": "stop",
-        "label": "Elevage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463714,
-        "role": "stop",
-        "label": "Lycée technique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032281196,
-        "role": "stop",
-        "label": "Solima"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976178,
-        "role": "stop",
-        "label": "Barea"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891345,
-        "role": "stop",
-        "label": "Caserne"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976180,
-        "role": "stop",
-        "label": "Cours d'appel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976183,
-        "role": "stop",
-        "label": "Manarapenitra"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976184,
-        "role": "stop",
-        "label": "Phamarcie"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891346,
-        "role": "stop",
-        "label": "Jamoka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976187,
-        "role": "stop",
-        "label": "Nobel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891347,
-        "role": "stop",
-        "label": "Rotsaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891348,
-        "role": "stop",
-        "label": "Sekaline"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704994,
-        "role": "stop",
-        "label": "Soatata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976192,
-        "role": "stop",
-        "label": "Taxi"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976194,
-        "role": "stop",
-        "label": "Rond point cité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976196,
-        "role": "stop",
-        "label": "Mama_philipine_A"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976197,
-        "role": "stop",
-        "label": "Pont blanc Tsaramandroso"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195436,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137461,
-        "role": "stop",
-        "label": "Tsaramandroso Shoprite"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976199,
-        "role": "stop",
-        "label": "Patel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976200,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976201,
-        "role": "stop",
-        "label": "Police Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750455,
-        "role": "stop",
-        "label": "Croisement Sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750456,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282192,
-        "role": "stop",
-        "label": "Vavahady sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750457,
-        "role": "stop",
-        "label": "Bazary Kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750458,
-        "role": "stop",
-        "label": "Fokontany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750459,
-        "role": "stop",
-        "label": "Television"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750460,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750461,
-        "role": "stop",
-        "label": "Plaque mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750462,
-        "role": "stop",
-        "label": "Pont blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750463,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750464,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750465,
-        "role": "stop",
-        "label": "DramCo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891352,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750467,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750468,
-        "role": "stop",
-        "label": "Plak-7"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750469,
-        "role": "stop",
-        "label": "Arret 18"
-      },
-      {
-        "type": "way",
-        "ref": 451778532,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965837,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808392,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965850,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 178953998,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188255414,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808393,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 351955423,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1126050565,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117006159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232323,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232322,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700466,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700467,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182944,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187834836,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182970,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182966,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607709,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182949,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116862770,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182988,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607712,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182986,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182943,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183032,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183037,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808388,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778532,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -1869,353 +998,207 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032200082,
-        "role": "stop",
-        "label": "Croisement Jirama"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032200085,
-        "role": "stop",
-        "label": "Croisement Boanamary"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032200089,
-        "role": "stop",
-        "label": "Président"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032200090,
-        "role": "stop",
-        "label": "Mme Kaloina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032200093,
-        "role": "stop",
-        "label": "Silamo be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032200095,
-        "role": "stop",
-        "label": "Mokonazy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963670,
-        "role": "stop",
-        "label": "Mangakely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963672,
-        "role": "stop",
-        "label": "Hazomboay"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963674,
-        "role": "stop",
-        "label": "Fjkm"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032200097,
-        "role": "stop",
-        "label": "Barplace"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963676,
-        "role": "stop",
-        "label": "Conteneur"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963680,
-        "role": "stop",
-        "label": "Kiba"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032200086,
-        "role": "stop",
-        "label": "Marovato"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963682,
-        "role": "stop",
-        "label": "Soava dia"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 6450569024,
-        "role": "stop",
-        "label": "Imaintsoanala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2006531160,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10773584588,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740972,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740988,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740966,
-        "role": "stop",
-        "label": "Pont_blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740989,
-        "role": "stop",
-        "label": "Centre"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740963,
-        "role": "stop",
-        "label": "Plaque_mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740959,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740956,
-        "role": "stop",
-        "label": "Fokotany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740990,
-        "role": "stop",
-        "label": "Bazary kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740950,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740920,
-        "role": "stop",
-        "label": "Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
-      },
-      {
-        "type": "way",
-        "ref": 53182940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808388,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778532,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607716,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188069265,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -2239,414 +1222,237 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032282186,
-        "role": "stop",
-        "label": "Brocataire"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282188,
-        "role": "stop",
-        "label": "Hotel de ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750455,
-        "role": "stop",
-        "label": "Croisement Sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750456,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282192,
-        "role": "stop",
-        "label": "Vavahady sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750457,
-        "role": "stop",
-        "label": "Bazary Kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750458,
-        "role": "stop",
-        "label": "Fokontany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750460,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750461,
-        "role": "stop",
-        "label": "Plaque mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750462,
-        "role": "stop",
-        "label": "Pont blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750463,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750464,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891352,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750467,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750468,
-        "role": "stop",
-        "label": "Plak-7"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750469,
-        "role": "stop",
-        "label": "Arret 18"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282195,
-        "role": "stop",
-        "label": "Belobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282197,
-        "role": "stop",
-        "label": "Ligne de rail"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282199,
-        "role": "stop",
-        "label": "Marovato"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282201,
-        "role": "stop",
-        "label": "Sekaline"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282203,
-        "role": "stop",
-        "label": "Kiba"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289605,
-        "role": "stop",
-        "label": "Conteneur"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289607,
-        "role": "stop",
-        "label": "Fjkm"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289609,
-        "role": "stop",
-        "label": "Hazomboay"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289611,
-        "role": "stop",
-        "label": "Mangakely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289612,
-        "role": "stop",
-        "label": "Babamily"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289615,
-        "role": "stop",
-        "label": "Soamanamby"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289617,
-        "role": "stop",
-        "label": "Silamo be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289621,
-        "role": "stop",
-        "label": "Croisement Boanamary"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289624,
-        "role": "stop",
-        "label": "Croisement Jirama"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289626,
-        "role": "stop",
-        "label": "Jiromena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289628,
-        "role": "stop",
-        "label": "Croisement Filao"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032289638,
-        "role": "stop",
-        "label": "Croisement Ziny"
-      },
-      {
-        "type": "way",
-        "ref": 1188069264,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188069265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607716,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778532,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808390,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607715,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187834837,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182936,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -2670,296 +1476,147 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032118969,
-        "role": "stop",
-        "label": "RASETA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162327,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115860,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165800,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158398,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150436,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150431,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195435,
-        "role": "stop",
-        "label": "Bar Nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195436,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137461,
-        "role": "stop",
-        "label": "Tsaramandroso Shoprite"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976200,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976201,
-        "role": "stop",
-        "label": "Police Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137468,
-        "role": "stop",
-        "label": "Pompe_be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137472,
-        "role": "stop",
-        "label": "Palmier"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137475,
-        "role": "stop",
-        "label": "Bassin"
-      },
-      {
-        "type": "way",
-        "ref": 1187852979,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380169174,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1158172600,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188223328,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188223329,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -2983,325 +1640,167 @@ module.exports = [
       {
         "type": "node",
         "ref": 11030137473,
-        "role": "stop",
-        "label": "Bassin"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137470,
-        "role": "stop",
-        "label": "Palmier"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756262,
-        "role": "stop",
-        "label": "Publiphone"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137466,
-        "role": "stop",
-        "label": "Pompe_be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891349,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740997,
-        "role": "stop",
-        "label": "Bata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740998,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740999,
-        "role": "stop",
-        "label": "5_étage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750482,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150430,
-        "role": "stop",
-        "label": "Bar nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377035,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750485,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377069,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158396,
-        "role": "stop",
-        "label": "Eponge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165802,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115859,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162326,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129669,
-        "role": "stop",
-        "label": "Labatoto"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129671,
-        "role": "stop",
-        "label": "Plaque masoandro"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032118968,
-        "role": "stop",
-        "label": "RASETA"
-      },
-      {
-        "type": "way",
-        "ref": 1188223329,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188223328,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220941,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1158172600,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380169174,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187852979,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -3325,312 +1824,127 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032229631,
-        "role": "stop",
-        "label": "Ancien piste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229633,
-        "role": "stop",
-        "label": "Visite téchnique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229635,
-        "role": "stop",
-        "label": "Aéroport Philibert Tsiranana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229639,
-        "role": "stop",
-        "label": "Bazary Amborovy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229641,
-        "role": "stop",
-        "label": "Croisement ZAHAMOTEL"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229643,
-        "role": "stop",
-        "label": "Plaque fotsy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162327,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115860,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165800,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158398,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150436,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150431,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195435,
-        "role": "stop",
-        "label": "Bar Nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195436,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137461,
-        "role": "stop",
-        "label": "Tsaramandroso Shoprite"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976199,
-        "role": "stop",
-        "label": "Patel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976200,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976201,
-        "role": "stop",
-        "label": "Police Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976154,
-        "role": "stop",
-        "label": "Hotel de ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976156,
-        "role": "stop",
-        "label": "Croix rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033786508,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2510234656,
-        "role": "stop",
-        "label": "Score"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032181476,
-        "role": "stop",
-        "label": "Tranokely"
-      },
-      {
-        "type": "way",
-        "ref": 53182945,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607714,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182943,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183032,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183037,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808388,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183051,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853768,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245157,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188236303,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229578,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853786,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226428,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 543704769,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 543704763,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960260,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528488366,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -3654,410 +1968,217 @@ module.exports = [
       {
         "type": "node",
         "ref": 11027750501,
-        "role": "stop",
-        "label": "Airtel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704984,
-        "role": "stop",
-        "label": "Solima"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463775,
-        "role": "stop",
-        "label": "Technique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463885,
-        "role": "stop",
-        "label": "Elevage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750502,
-        "role": "stop",
-        "label": "Boina beach"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741009,
-        "role": "stop",
-        "label": "Maison verte"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741010,
-        "role": "stop",
-        "label": "Jardin d'amour"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 3688380705,
-        "role": "stop",
-        "label": "Nandrasana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741012,
-        "role": "stop",
-        "label": "Corniche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750427,
-        "role": "stop",
-        "label": "Bord"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032281197,
-        "role": "stop",
-        "label": "BFV"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145854,
-        "role": "stop",
-        "label": "Oximade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145856,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145858,
-        "role": "stop",
-        "label": "Don_bosco"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035124099,
-        "role": "stop",
-        "label": "Lycée Philibert Tsiranana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145860,
-        "role": "stop",
-        "label": "Gymnase"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145862,
-        "role": "stop",
-        "label": "Bois_Sacré"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145864,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976199,
-        "role": "stop",
-        "label": "Patel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976200,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976201,
-        "role": "stop",
-        "label": "Police Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145866,
-        "role": "stop",
-        "label": "Tsenakely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145868,
-        "role": "stop",
-        "label": "Garage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145870,
-        "role": "stop",
-        "label": "Plaque_fotsy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145872,
-        "role": "stop",
-        "label": "Vim"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145874,
-        "role": "stop",
-        "label": "Esige"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033811643,
-        "role": "stop",
-        "label": "Triangle"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145876,
-        "role": "stop",
-        "label": "Bar Sofa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145878,
-        "role": "stop",
-        "label": "Pompe_doany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 3835091940,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750491,
-        "role": "stop",
-        "label": "Sapanana masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145884,
-        "role": "stop",
-        "label": "Conteneur"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145886,
-        "role": "stop",
-        "label": "Ravinala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145888,
-        "role": "stop",
-        "label": "Jeannot"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145890,
-        "role": "stop",
-        "label": "Alexia"
-      },
-      {
-        "type": "way",
-        "ref": 1188229403,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1134734433,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599222,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380167370,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421930,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169603103,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1189675415,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229399,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182934,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182947,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304754,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607707,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182942,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700467,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700466,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232322,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232323,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117006159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -4082,330 +2203,142 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032181476,
-        "role": "stop",
-        "label": "Tranokely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032181474,
-        "role": "stop",
-        "label": "COMAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750435,
-        "role": "stop",
-        "label": "Score"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976159,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750436,
-        "role": "stop",
-        "label": "Croix Rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750437,
-        "role": "stop",
-        "label": "Hotel de Ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740997,
-        "role": "stop",
-        "label": "Bata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740998,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740999,
-        "role": "stop",
-        "label": "5_étage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750482,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150430,
-        "role": "stop",
-        "label": "Bar nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377035,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750485,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377069,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158396,
-        "role": "stop",
-        "label": "Eponge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165802,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115859,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162326,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129669,
-        "role": "stop",
-        "label": "Labatoto"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129671,
-        "role": "stop",
-        "label": "Plaque masoandro"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032118968,
-        "role": "stop",
-        "label": "RASETA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229641,
-        "role": "stop",
-        "label": "Croisement ZAHAMOTEL"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229637,
-        "role": "stop",
-        "label": "Bazary Amborovy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 5135699822,
-        "role": "stop",
-        "label": "Tsaradia"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229633,
-        "role": "stop",
-        "label": "Visite téchnique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229631,
-        "role": "stop",
-        "label": "Ancien piste"
-      },
-      {
-        "type": "way",
-        "ref": 528488366,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960260,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226427,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229578,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853786,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853758,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853783,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229578,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188236303,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245157,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853768,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808390,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607715,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183030,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182943,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607714,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182945,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -4429,429 +2362,212 @@ module.exports = [
       {
         "type": "node",
         "ref": 11034419667,
-        "role": "stop",
-        "label": "Tranovato"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808594,
-        "role": "stop",
-        "label": "Alexia"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419669,
-        "role": "stop",
-        "label": "Jeannot"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419671,
-        "role": "stop",
-        "label": "Ravinala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808596,
-        "role": "stop",
-        "label": "Conteneur"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808598,
-        "role": "stop",
-        "label": "Sapanana masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808600,
-        "role": "stop",
-        "label": "Manga_efatra"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808602,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808604,
-        "role": "stop",
-        "label": "Pompe_doany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858106,
-        "role": "stop",
-        "label": "Bar Sofa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858108,
-        "role": "stop",
-        "label": "Esige"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858110,
-        "role": "stop",
-        "label": "Vim"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858112,
-        "role": "stop",
-        "label": "Plaque_fotsy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858114,
-        "role": "stop",
-        "label": "Garage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740997,
-        "role": "stop",
-        "label": "Bata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740998,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740999,
-        "role": "stop",
-        "label": "5_étage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180720,
-        "role": "stop",
-        "label": "Ziona"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858710,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858116,
-        "role": "stop",
-        "label": "Stade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034106251,
-        "role": "stop",
-        "label": "Lycée"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236058,
-        "role": "stop",
-        "label": "Lycée Philibert Tsiranana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236060,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236062,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858117,
-        "role": "stop",
-        "label": "Oximade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150443,
-        "role": "stop",
-        "label": "BFV"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976167,
-        "role": "stop",
-        "label": "Bord"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891341,
-        "role": "stop",
-        "label": "Corniche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891342,
-        "role": "stop",
-        "label": "Nandrasana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976175,
-        "role": "stop",
-        "label": "Boina beach"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891344,
-        "role": "stop",
-        "label": "Elevage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463714,
-        "role": "stop",
-        "label": "Lycée technique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032281196,
-        "role": "stop",
-        "label": "Solima"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976178,
-        "role": "stop",
-        "label": "Barea"
-      },
-      {
-        "type": "way",
-        "ref": 1187808394,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1126050565,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117006159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965847,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232322,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700466,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700467,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182944,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 234767152,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232321,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229398,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304754,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182947,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182934,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511263,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183058,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220941,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169603103,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421930,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380167370,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599222,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187852885,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229403,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -4876,287 +2592,127 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032282186,
-        "role": "stop",
-        "label": "Brocataire"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858712,
-        "role": "stop",
-        "label": "Bois Sacré"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145864,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750482,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150430,
-        "role": "stop",
-        "label": "Bar nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377035,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750485,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377069,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158396,
-        "role": "stop",
-        "label": "Eponge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165802,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115859,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162326,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129669,
-        "role": "stop",
-        "label": "Labatoto"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129671,
-        "role": "stop",
-        "label": "Plaque masoandro"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032118968,
-        "role": "stop",
-        "label": "RASETA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229641,
-        "role": "stop",
-        "label": "Croisement ZAHAMOTEL"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033838289,
-        "role": "stop",
-        "label": "CSB_II"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033838291,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1893059683,
-        "role": "stop",
-        "label": "EPP"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033838294,
-        "role": "stop",
-        "label": "Croisement fasika"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1893059658,
-        "role": "stop",
-        "label": "Mahabibo kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1893059655,
-        "role": "stop",
-        "label": "Tavoangy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032249595,
-        "role": "stop",
-        "label": "Croisement petit plage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 3835091497,
-        "role": "stop",
-        "label": "CDA"
-      },
-      {
-        "type": "way",
-        "ref": 1188235772,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104806,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380167291,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836744,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836746,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960259,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960262,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853768,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1189675415,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229399,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187834837,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182936,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188236301,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188236302,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -5180,291 +2736,122 @@ module.exports = [
       {
         "type": "node",
         "ref": 3835091497,
-        "role": "stop",
-        "label": "CDA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032249593,
-        "role": "stop",
-        "label": "Omeopharma"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032249597,
-        "role": "stop",
-        "label": "Croisement petit plage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269287,
-        "role": "stop",
-        "label": "Madiro kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269289,
-        "role": "stop",
-        "label": "Croisement fasika"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269290,
-        "role": "stop",
-        "label": "Vitrine"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269293,
-        "role": "stop",
-        "label": "Voanio"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269295,
-        "role": "stop",
-        "label": "EPP"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1319173027,
-        "role": "stop",
-        "label": "CSB_II"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269297,
-        "role": "stop",
-        "label": "Croisement ZAHAMOTEL"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229643,
-        "role": "stop",
-        "label": "Plaque fotsy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162327,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115860,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165800,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158398,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150436,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150431,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195435,
-        "role": "stop",
-        "label": "Bar Nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195436,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137461,
-        "role": "stop",
-        "label": "Tsaramandroso Shoprite"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858710,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858714,
-        "role": "stop",
-        "label": "Hotel de Ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963686,
-        "role": "stop",
-        "label": "Analakely"
-      },
-      {
-        "type": "way",
-        "ref": 1188236302,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035854,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187834835,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183058,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853768,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245157,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960261,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960259,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836746,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836744,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380167291,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104806,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188235772,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -5488,458 +2875,207 @@ module.exports = [
       {
         "type": "node",
         "ref": 11027750499,
-        "role": "stop",
-        "label": "Pharmacie"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704997,
-        "role": "stop",
-        "label": "Manarapenitra"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741008,
-        "role": "stop",
-        "label": "Cours d'appel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463703,
-        "role": "stop",
-        "label": "Caserne"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750500,
-        "role": "stop",
-        "label": "Barea"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750501,
-        "role": "stop",
-        "label": "Airtel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704984,
-        "role": "stop",
-        "label": "Solima"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463775,
-        "role": "stop",
-        "label": "Technique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463885,
-        "role": "stop",
-        "label": "Elevage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750502,
-        "role": "stop",
-        "label": "Boina beach"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741009,
-        "role": "stop",
-        "label": "Maison verte"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741010,
-        "role": "stop",
-        "label": "Jardin d'amour"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 3688380705,
-        "role": "stop",
-        "label": "Nandrasana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741012,
-        "role": "stop",
-        "label": "Corniche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750428,
-        "role": "stop",
-        "label": "Alliance Française"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034015166,
-        "role": "stop",
-        "label": "Topo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750429,
-        "role": "stop",
-        "label": "Akbar"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034015168,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750473,
-        "role": "stop",
-        "label": "Quai Orange"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750475,
-        "role": "stop",
-        "label": "Port"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750433,
-        "role": "stop",
-        "label": "Bazar Be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145856,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145858,
-        "role": "stop",
-        "label": "Don_bosco"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145860,
-        "role": "stop",
-        "label": "Gymnase"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145862,
-        "role": "stop",
-        "label": "Bois_Sacré"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145864,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750482,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150430,
-        "role": "stop",
-        "label": "Bar nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377035,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750485,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750486,
-        "role": "stop",
-        "label": "Garage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750487,
-        "role": "stop",
-        "label": "Fiankarana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750488,
-        "role": "stop",
-        "label": "Mangarano"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750489,
-        "role": "stop",
-        "label": "Lavasoka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750490,
-        "role": "stop",
-        "label": "Sens unique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750491,
-        "role": "stop",
-        "label": "Sapanana masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145884,
-        "role": "stop",
-        "label": "Conteneur"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145886,
-        "role": "stop",
-        "label": "Ravinala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145888,
-        "role": "stop",
-        "label": "Jeannot"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145890,
-        "role": "stop",
-        "label": "Alexia"
-      },
-      {
-        "type": "way",
-        "ref": 1188229403,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187852885,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599222,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229402,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599220,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599218,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 585216923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 585216920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599232,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599231,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599234,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 585216928,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1189675415,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229399,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182934,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607713,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607712,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182992,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117109057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117109059,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182941,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182966,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607708,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229398,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607707,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182942,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700467,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700466,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232322,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232323,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117006159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808394,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 351955423,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808393,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -5964,422 +3100,177 @@ module.exports = [
       {
         "type": "node",
         "ref": 11034419667,
-        "role": "stop",
-        "label": "Tranovato"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808594,
-        "role": "stop",
-        "label": "Alexia"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419669,
-        "role": "stop",
-        "label": "Jeannot"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419671,
-        "role": "stop",
-        "label": "Ravinala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808596,
-        "role": "stop",
-        "label": "Conteneur"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033808598,
-        "role": "stop",
-        "label": "Sapanana masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419673,
-        "role": "stop",
-        "label": "Sens unique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419675,
-        "role": "stop",
-        "label": "Lavasoka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 5557739273,
-        "role": "stop",
-        "label": "Mangarano"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419678,
-        "role": "stop",
-        "label": "Fiankarana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419680,
-        "role": "stop",
-        "label": "Garage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034419682,
-        "role": "stop",
-        "label": "Pamba"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150436,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150431,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195435,
-        "role": "stop",
-        "label": "Bar Nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195436,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137461,
-        "role": "stop",
-        "label": "Tsaramandroso Shoprite"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858710,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858116,
-        "role": "stop",
-        "label": "Stade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034106251,
-        "role": "stop",
-        "label": "Lycée"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034106253,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891340,
-        "role": "stop",
-        "label": "Alliance Française"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976167,
-        "role": "stop",
-        "label": "Bord"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891341,
-        "role": "stop",
-        "label": "Corniche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891342,
-        "role": "stop",
-        "label": "Nandrasana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976175,
-        "role": "stop",
-        "label": "Boina beach"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891344,
-        "role": "stop",
-        "label": "Elevage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463714,
-        "role": "stop",
-        "label": "Lycée technique"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032281196,
-        "role": "stop",
-        "label": "Solima"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976178,
-        "role": "stop",
-        "label": "Barea"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891345,
-        "role": "stop",
-        "label": "Caserne"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976180,
-        "role": "stop",
-        "label": "Cours d'appel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976183,
-        "role": "stop",
-        "label": "Manarapenitra"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976184,
-        "role": "stop",
-        "label": "Phamarcie"
-      },
-      {
-        "type": "way",
-        "ref": 1187808393,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 351955423,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1126050565,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117006159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965847,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188232322,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700466,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230700467,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182944,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187834836,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182970,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182966,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182941,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117109059,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117109057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182992,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607712,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607713,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182934,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511263,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1189675415,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 585216928,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599234,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599231,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599232,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 585216920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 585216923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599218,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599220,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229402,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 169599222,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187852885,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229403,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -6404,326 +3295,172 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032281197,
-        "role": "stop",
-        "label": "BFV"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145854,
-        "role": "stop",
-        "label": "Oximade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034294688,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976159,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750436,
-        "role": "stop",
-        "label": "Croix Rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750437,
-        "role": "stop",
-        "label": "Hotel de Ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750455,
-        "role": "stop",
-        "label": "Croisement Sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750456,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282192,
-        "role": "stop",
-        "label": "Vavahady sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750457,
-        "role": "stop",
-        "label": "Bazary Kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750458,
-        "role": "stop",
-        "label": "Fokontany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750460,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750461,
-        "role": "stop",
-        "label": "Plaque mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750462,
-        "role": "stop",
-        "label": "Pont blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750463,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750464,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750465,
-        "role": "stop",
-        "label": "DramCo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891352,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750467,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750468,
-        "role": "stop",
-        "label": "Plak-7"
-      },
-      {
-        "type": "way",
-        "ref": 1188254590,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808390,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607715,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183030,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182928,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183003,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182947,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200972159,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -6747,314 +3484,162 @@ module.exports = [
       {
         "type": "node",
         "ref": 2006531160,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10773584588,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740987,
-        "role": "stop",
-        "label": "Probo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740972,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740988,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740966,
-        "role": "stop",
-        "label": "Pont_blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740989,
-        "role": "stop",
-        "label": "Centre"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740963,
-        "role": "stop",
-        "label": "Plaque_mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740959,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740956,
-        "role": "stop",
-        "label": "Fokotany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740990,
-        "role": "stop",
-        "label": "Bazary kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740950,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891349,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976154,
-        "role": "stop",
-        "label": "Hotel de ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976156,
-        "role": "stop",
-        "label": "Croix rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033786508,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150438,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858117,
-        "role": "stop",
-        "label": "Oximade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150443,
-        "role": "stop",
-        "label": "BFV"
-      },
-      {
-        "type": "way",
-        "ref": 200972159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182947,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183003,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182928,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183032,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183037,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808388,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254590,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -7078,198 +3663,82 @@ module.exports = [
       {
         "type": "node",
         "ref": 11032281197,
-        "role": "stop",
-        "label": "BFV"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145854,
-        "role": "stop",
-        "label": "Oximade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034294688,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976159,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750436,
-        "role": "stop",
-        "label": "Croix Rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750437,
-        "role": "stop",
-        "label": "Hotel de Ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740997,
-        "role": "stop",
-        "label": "Bata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740998,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740999,
-        "role": "stop",
-        "label": "5_étage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750482,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150430,
-        "role": "stop",
-        "label": "Bar nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377035,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750485,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11034045343,
-        "role": "stop",
-        "label": "Travaux"
-      },
-      {
-        "type": "way",
-        "ref": 1188256636,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808390,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607715,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183030,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182928,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183003,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182947,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200972159,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -7293,209 +3762,87 @@ module.exports = [
       {
         "type": "node",
         "ref": 11034045343,
-        "role": "stop",
-        "label": "Travaux"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150436,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150431,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195435,
-        "role": "stop",
-        "label": "Bar Nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195436,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137461,
-        "role": "stop",
-        "label": "Tsaramandroso Shoprite"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976199,
-        "role": "stop",
-        "label": "Patel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976200,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976201,
-        "role": "stop",
-        "label": "Police Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976154,
-        "role": "stop",
-        "label": "Hotel de ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976156,
-        "role": "stop",
-        "label": "Croix rouge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033786508,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150438,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858117,
-        "role": "stop",
-        "label": "Oximade"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150443,
-        "role": "stop",
-        "label": "BFV"
-      },
-      {
-        "type": "way",
-        "ref": 200972159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182947,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183003,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182928,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183032,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183037,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808388,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183051,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188256636,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -7519,272 +3866,227 @@ module.exports = [
       {
         "type": "node",
         "ref": 11035093990,
-        "role": "stop",
-        "label": "Plaque_mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 8400109919,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035093993,
-        "role": "stop",
-        "label": "Fokotany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269287,
-        "role": "stop",
-        "label": "Bazary kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269289,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269290,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269293,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269295,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035093980,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1319173027,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032269297,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035093995,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229643,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035093982,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162327,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115860,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165800,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035093997,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158398,
-        "role": "stop",
-        "label": "Bata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150436,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150431,
-        "role": "stop",
-        "label": "5_étage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195435,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032195436,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030137461,
-        "role": "stop",
-        "label": "Bar nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976199,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976200,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976201,
-        "role": "stop",
-        "label": "Eponge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Labatoto"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Plaque masoandro"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "RASETA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Plaque fotsy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Croisement ZAHAMOTEL"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "CSB_II"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "EPP"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Croisement fasika"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Mahabibo kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750455,
-        "role": "stop",
-        "label": "Tavoangy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750456,
-        "role": "stop",
-        "label": "Croisement petit plage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282192,
-        "role": "stop",
-        "label": "Mahatehotia"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750457,
-        "role": "stop",
-        "label": "Belinta"
+        "role": "stop"
       },
       {
         "type": "node",
@@ -7805,221 +4107,6 @@ module.exports = [
         "type": "node",
         "ref": 11027750461,
         "role": "stop"
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853768,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245157,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960261,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960259,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836746,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836744,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380167291,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960263,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836741,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836742,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 429934394,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836740,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528500892,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528446870,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528500894,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836738,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836739,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1156302224,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 299213259,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836736,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836735,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528500902,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395574,
-        "role": ""
       }
     ],
     "tags": {
@@ -8044,482 +4131,227 @@ module.exports = [
       {
         "type": "node",
         "ref": 11029740963,
-        "role": "stop",
-        "label": "Vitogaz"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740959,
-        "role": "stop",
-        "label": "Belinta"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740956,
-        "role": "stop",
-        "label": "Croisement petit plage"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740990,
-        "role": "stop",
-        "label": "Madiro kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740950,
-        "role": "stop",
-        "label": "Croisement fasika"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Vitrine"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Voanio"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "EPP"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891349,
-        "role": "stop",
-        "label": "CSB_II"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Croisement ZAHAMOTEL"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Caserne"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "Plaque fotsy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "RASETA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Poteau mainty"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Samborobaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Paraky"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Eponge"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740997,
-        "role": "stop",
-        "label": "HASIMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740998,
-        "role": "stop",
-        "label": "Mazava Huile"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740999,
-        "role": "stop",
-        "label": "JIRAMA"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Bar Nene"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750482,
-        "role": "stop",
-        "label": "Tsaralaza"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032150430,
-        "role": "stop",
-        "label": "Tsaramandroso Shoprite"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377035,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750485,
-        "role": "stop",
-        "label": "Patel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1316377069,
-        "role": "stop",
-        "label": "Jantilal"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032158396,
-        "role": "stop",
-        "label": "Police Mahabibo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032165802,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032115859,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032162326,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129669,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032129671,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032118968,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035071383,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032229641,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033838289,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033838291,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1893059683,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033838294,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1893059658,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1893059655,
-        "role": "stop",
-        "label": "Croisement Sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035071385,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035071387,
-        "role": "stop",
-        "label": "Vavahady sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035071389,
-        "role": "stop",
-        "label": "Bazary Kely"
-      },
-      {
-        "type": "way",
-        "ref": 1188395574,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528500902,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836735,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836736,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 299213259,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836737,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 429934396,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528446871,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528446870,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 528500892,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836740,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 429934394,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836742,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836741,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960263,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 380167291,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836744,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 760836746,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960259,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 200960262,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853768,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235142014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421895,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451421896,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117104804,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607717,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965852,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808391,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401016,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511265,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183050,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220941,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -8544,853 +4376,457 @@ module.exports = [
       {
         "type": "node",
         "ref": 6450569024,
-        "role": "stop",
-        "label": "Imaintsoanala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2006531160,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10773584588,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740987,
-        "role": "stop",
-        "label": "Probo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740972,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740988,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740966,
-        "role": "stop",
-        "label": "Pont_blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740989,
-        "role": "stop",
-        "label": "Centre"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740963,
-        "role": "stop",
-        "label": "Plaque_mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740959,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740956,
-        "role": "stop",
-        "label": "Fokotany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740990,
-        "role": "stop",
-        "label": "Bazary kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740950,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891349,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035187533,
-        "role": "stop",
-        "label": "Aigle d'or"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035187535,
-        "role": "stop",
-        "label": "Phamarcie"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035187537,
-        "role": "stop",
-        "label": "Pompier"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035187539,
-        "role": "stop",
-        "label": "Analakely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035187541,
-        "role": "stop",
-        "label": "Marofody"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035187543,
-        "role": "stop",
-        "label": "Barday"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976162,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976164,
-        "role": "stop",
-        "label": "Bazar Be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145856,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145858,
-        "role": "stop",
-        "label": "Don_bosco"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035124099,
-        "role": "stop",
-        "label": "Lycée Philibert Tsiranana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035124101,
-        "role": "stop",
-        "label": "Sainte Jeanne d'arc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035124103,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180705,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180707,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180709,
-        "role": "stop",
-        "label": "Baobab"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180711,
-        "role": "stop",
-        "label": "Sampanana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976178,
-        "role": "stop",
-        "label": "Barea"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891345,
-        "role": "stop",
-        "label": "Caserne"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976180,
-        "role": "stop",
-        "label": "Cours d'appel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976183,
-        "role": "stop",
-        "label": "Manarapenitra"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976184,
-        "role": "stop",
-        "label": "Phamarcie"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463946,
-        "role": "stop",
-        "label": "Croisement bloc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891346,
-        "role": "stop",
-        "label": "Jamoka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976187,
-        "role": "stop",
-        "label": "Nobel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891347,
-        "role": "stop",
-        "label": "Rotsaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891348,
-        "role": "stop",
-        "label": "Sekaline"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704994,
-        "role": "stop",
-        "label": "Soatata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180714,
-        "role": "stop",
-        "label": "Taxi"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180716,
-        "role": "stop",
-        "label": "Lycée privée"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180718,
-        "role": "stop",
-        "label": "Bazary Tsaramandroso"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750481,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180720,
-        "role": "stop",
-        "label": "Ziona"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858710,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858714,
-        "role": "stop",
-        "label": "Hotel de Ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750455,
-        "role": "stop",
-        "label": "Croisement Sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750456,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282192,
-        "role": "stop",
-        "label": "Vavahady sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750457,
-        "role": "stop",
-        "label": "Bazary Kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750458,
-        "role": "stop",
-        "label": "Fokontany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750460,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750461,
-        "role": "stop",
-        "label": "Plaque mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750462,
-        "role": "stop",
-        "label": "Pont blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750463,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750464,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750465,
-        "role": "stop",
-        "label": "DramCo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891352,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750467,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750468,
-        "role": "stop",
-        "label": "Plak-7"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750469,
-        "role": "stop",
-        "label": "Arret 18"
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808390,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188245159,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1189675415,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 234889834,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965855,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808392,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965850,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 178953998,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188255414,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808393,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 351955423,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1126050565,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 180144538,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235167038,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230593359,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853753,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853790,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182934,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607713,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182986,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511262,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188236301,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035854,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808388,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -9413,835 +4849,467 @@ module.exports = [
       {
         "type": "node",
         "ref": 6450569024,
-        "role": "stop",
-        "label": "Imaintsoanala"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2006531160,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10773584588,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740987,
-        "role": "stop",
-        "label": "Probo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740972,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740988,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740966,
-        "role": "stop",
-        "label": "Pont_blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740989,
-        "role": "stop",
-        "label": "Centre"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740963,
-        "role": "stop",
-        "label": "Plaque_mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740959,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740956,
-        "role": "stop",
-        "label": "Fokotany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740990,
-        "role": "stop",
-        "label": "Bazary kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740950,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740947,
-        "role": "stop",
-        "label": "Croisement"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740943,
-        "role": "stop",
-        "label": "Jovena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740991,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891350,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891349,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740993,
-        "role": "stop",
-        "label": "Bazary Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740936,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10605029240,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740930,
-        "role": "stop",
-        "label": "FITIM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740994,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740925,
-        "role": "stop",
-        "label": "Jardin cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031963685,
-        "role": "stop",
-        "label": "Bain_douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740922,
-        "role": "stop",
-        "label": "Galax"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029976152,
-        "role": "stop",
-        "label": "Ecole normale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236034,
-        "role": "stop",
-        "label": "Hôtel de Ville"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033858712,
-        "role": "stop",
-        "label": "Bois Sacré"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11030145864,
-        "role": "stop",
-        "label": "Maternité"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11033756261,
-        "role": "stop",
-        "label": "Makilok"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236036,
-        "role": "stop",
-        "label": "Bazary Tsaramandroso"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236038,
-        "role": "stop",
-        "label": "Lycée privée"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236040,
-        "role": "stop",
-        "label": "Taxi"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704994,
-        "role": "stop",
-        "label": "Soatata"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741004,
-        "role": "stop",
-        "label": "Sekaline"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741005,
-        "role": "stop",
-        "label": "Rotsaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741006,
-        "role": "stop",
-        "label": "Jamoka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704990,
-        "role": "stop",
-        "label": "Bar_Sofa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463742,
-        "role": "stop",
-        "label": "Croisement_bloc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704997,
-        "role": "stop",
-        "label": "Manarapenitra"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029741008,
-        "role": "stop",
-        "label": "Cours d'appel"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1317463703,
-        "role": "stop",
-        "label": "Caserne"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750500,
-        "role": "stop",
-        "label": "Barea"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029704984,
-        "role": "stop",
-        "label": "Solima"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236042,
-        "role": "stop",
-        "label": "Sampanana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035180709,
-        "role": "stop",
-        "label": "Baobab"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236046,
-        "role": "stop",
-        "label": "La Fontaine"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236047,
-        "role": "stop",
-        "label": "Pompe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236049,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236051,
-        "role": "stop",
-        "label": "Bara Mokonazy"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236054,
-        "role": "stop",
-        "label": "FJKM"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236055,
-        "role": "stop",
-        "label": "Sainte Jeanne d'arc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236058,
-        "role": "stop",
-        "label": "Lycée Philibert Tsiranana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236060,
-        "role": "stop",
-        "label": "Poste"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236062,
-        "role": "stop",
-        "label": "Bonnet"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236063,
-        "role": "stop",
-        "label": "Bibliothèque Municipale"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236066,
-        "role": "stop",
-        "label": "Bazary be"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750434,
-        "role": "stop",
-        "label": "Colis Express"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236068,
-        "role": "stop",
-        "label": "Barday"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236070,
-        "role": "stop",
-        "label": "Marofody"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236072,
-        "role": "stop",
-        "label": "Analakely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11035236074,
-        "role": "stop",
-        "label": "Parkage régional"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750439,
-        "role": "stop",
-        "label": "Photo Sport"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750440,
-        "role": "stop",
-        "label": "Bain Douche"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 672951747,
-        "role": "stop",
-        "label": "Jardin Cayla"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032108454,
-        "role": "stop",
-        "label": "Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 10606472367,
-        "role": "stop",
-        "label": "Galana Manjarisoa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750446,
-        "role": "stop",
-        "label": "Atafa"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750447,
-        "role": "stop",
-        "label": "BIZO"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 2514365000,
-        "role": "stop",
-        "label": "Mahatsinjo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750449,
-        "role": "stop",
-        "label": "Antanimasaja"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11029740992,
-        "role": "stop",
-        "label": "Miaramila"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750451,
-        "role": "stop",
-        "label": "Plaque"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750452,
-        "role": "stop",
-        "label": "Lalatapaka"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 1807012459,
-        "role": "stop",
-        "label": "Jovenna"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750454,
-        "role": "stop",
-        "label": "Pharmacia Hazavana"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750455,
-        "role": "stop",
-        "label": "Croisement Sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750456,
-        "role": "stop",
-        "label": "CSB"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11032282192,
-        "role": "stop",
-        "label": "Vavahady sotema"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750457,
-        "role": "stop",
-        "label": "Bazary Kely"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750458,
-        "role": "stop",
-        "label": "Fokontany"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750459,
-        "role": "stop",
-        "label": "Television"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750460,
-        "role": "stop",
-        "label": "Mangabe"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750461,
-        "role": "stop",
-        "label": "Plaque mena"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750462,
-        "role": "stop",
-        "label": "Pont blanc"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750463,
-        "role": "stop",
-        "label": "Loterianina"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750464,
-        "role": "stop",
-        "label": "Shell"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750465,
-        "role": "stop",
-        "label": "DramCo"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11031891352,
-        "role": "stop",
-        "label": "Masera"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750467,
-        "role": "stop",
-        "label": "Abad"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750468,
-        "role": "stop",
-        "label": "Plak-7"
+        "role": "stop"
       },
       {
         "type": "node",
         "ref": 11027750469,
-        "role": "stop",
-        "label": "Arret 18"
-      },
-      {
-        "type": "way",
-        "ref": 1188399451,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022727,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188304757,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188254588,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188395573,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 688022725,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188221002,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229400,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106018,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 117106014,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 451778531,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183057,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1085902483,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182920,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808389,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808390,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226425,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607715,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187834837,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182936,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 94511262,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182986,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187607713,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182934,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853790,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116853753,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 230593359,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 235167038,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 180144538,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188401015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808394,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 351955423,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808393,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188255414,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 178953997,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965850,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808392,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965855,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 234889834,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 116965849,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1189675415,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182923,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188229399,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183015,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188226424,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187834837,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188082358,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53183037,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188035853,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1187808388,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220940,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 1188220939,
-        "role": ""
-      },
-      {
-        "type": "way",
-        "ref": 53182921,
-        "role": ""
+        "role": "stop"
       }
     ],
     "tags": {
@@ -10257,4 +5325,4 @@ module.exports = [
       "type": "route"
     }
   }
-]
+];

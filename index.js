@@ -1,4 +1,3 @@
-const { getBus, getAllBus, busAt } = require('./src/getBus.js');
-const { getAllStop, getStop } = require('./src/stop.js');
+const { findStopAll, findBusByOneStop, findBusByTwoStop, findBusDetailById, findBusAll } = require('./src/getBus.js');
 
-module.exports = { getBus, getAllBus, getAllStop, getStop, busAt }
+module.exports = { findStopAll, findBusByOneStop, findBusByTwoStop, findBusDetailById, findBusAll }

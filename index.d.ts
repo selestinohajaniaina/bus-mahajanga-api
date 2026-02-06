@@ -1,12 +1,7 @@
-type Relation = {
+type Bus = {
   type: string,
   id: number,
-  members: [{
-      type: string,
-      ref: number,
-      role: string,
-      label: string
-    }],
+  members: Stop[],
   tags: {
     colour: string,
     fee: string,
@@ -28,13 +23,13 @@ type Stop = {
   id: number,
   lat: number,
   lon: number,
-  label: string,
+  label: string | null,
 }
 
 declare module 'bus-mj' {
-  export function getBus(start: number, end: number): Relation[];
-  export function getAllBus(): Relation[];
-  export function busAt(busId: number): Relation;
-  export function getAllStop(): Stop[];
-  export function getStop(busId: number): Stop[];
+  export function findBusByOneStop(stopId: number): Bus[];
+  export function findBusByTwoStop(startStopId: number, endStopId: number): Bus[];
+  export function findBusAll(): Bus[];
+  export function findBusDetailById(busId: number): Bus;
+  export function findStopAll(): Stop[];
 }
