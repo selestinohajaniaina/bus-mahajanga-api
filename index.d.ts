@@ -4,6 +4,8 @@ type Bus = {
   members: Stop[],
   tags: {
     colour: string,
+    band: string[],
+    board: string |null,
     fee: string,
     from: string,
     name: string,
