@@ -3,7 +3,7 @@ type Bus = {
   id: number,
   members: Stop[],
   tags: {
-    colour: string,
+    color: string,
     band: string[],
     board: string |null,
     fee: string,
