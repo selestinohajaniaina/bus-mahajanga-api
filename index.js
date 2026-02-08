@@ -1,4 +1,4 @@
-const {
+import {
   findStopAll,
   findBusByOneStop,
   findBusByTwoStop,
@@ -8,9 +8,9 @@ const {
   findZoneAll,
   findBusDetailByOperator,
   findOpenHoursAll
-} = require("./src/getBus.js");
+} from "./src/getBus.js";
 
-module.exports = {
+export {
   findStopAll,
   findBusByOneStop,
   findBusByTwoStop,

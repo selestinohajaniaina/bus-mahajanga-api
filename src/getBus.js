@@ -1,7 +1,10 @@
-let relations = require("../data/relations");
-const nodes = require("../data/nodes");
+// src/getBus.js
+import relationsData from "../data/relations.js";
+import nodesData from "../data/nodes.js";
 
-relations = relations.map((relation) => {
+const nodes = nodesData;
+
+let relations = relationsData.map((relation) => {
   relation.members = relation.members.map((member) =>
     findStopByRef(member.ref)
   );
@@ -13,7 +16,7 @@ relations = relations.map((relation) => {
  * @param {number} ref id of node
  * @returns { Stop } detail of bus'stop
  */
-function findStopByRef(ref) {
+export function findStopByRef(ref) {
   return nodes.find((e) => e.id === ref);
 }
 
@@ -21,7 +24,7 @@ function findStopByRef(ref) {
  * list all STOPS in data
  * @returns { Stop[] }
  */
-function findStopAll() {
+export function findStopAll() {
   return nodes.filter((node) => node.label != undefined);
 }
 
@@ -30,7 +33,7 @@ function findStopAll() {
  * @param {number} bus_id id of bus ...
  * @returns { Bus }
  */
-function findBusDetailById(bus_id) {
+export function findBusDetailById(bus_id) {
   return relations.find((bus) => bus.id == bus_id);
 }
 
@@ -39,7 +42,7 @@ function findBusDetailById(bus_id) {
  * @param {number} stop_id id of stop
  * @returns { Bus[] }
  */
-function findBusByOneStop(stop_id) {
+export function findBusByOneStop(stop_id) {
   return relations.filter((relation) => {
     return relation.members.some((member) => member.ref === stop_id);
   });
@@ -51,7 +54,7 @@ function findBusByOneStop(stop_id) {
  * @param {number} end STOP_ID - end of Road
  * @returns { Bus[] }
  */
-function findBusByTwoStop(begin, end) {
+export function findBusByTwoStop(begin, end) {
   let firstRelationsFound = findBusByOneStop(begin);
   return firstRelationsFound.filter((relation) => {
     return relation.members.some((member) => member.ref === end);
@@ -63,7 +66,7 @@ function findBusByTwoStop(begin, end) {
  * @param {string} operator_name id of operator ...
  * @returns { Bus[] }
  */
-function findBusDetailByOperator(operator_name) {
+export function findBusDetailByOperator(operator_name) {
   return relations.filter(
     (bus) =>
       bus.tags.operator &&
@@ -75,7 +78,7 @@ function findBusDetailByOperator(operator_name) {
  * fetch all bus
  * @returns { Bus[] }
  */
-function findBusAll() {
+export function findBusAll() {
   return relations;
 }
 
@@ -83,7 +86,7 @@ function findBusAll() {
  * fetch all operator
  * @returns { string[] }
  */
-function findOperatorAll() {
+export function findOperatorAll() {
   return relations
     .map((relation) => relation.tags.operator)
     .filter(
@@ -96,7 +99,7 @@ function findOperatorAll() {
  * fetch all opennning hours
  * @returns { string[] }
  */
-function findOpenHoursAll() {
+export function findOpenHoursAll() {
   return relations.map((relation) => relation.tags.opening_hours);
 }
 
@@ -104,7 +107,7 @@ function findOpenHoursAll() {
  * fetch all zone
  * @returns { string[] }
  */
-function findZoneAll() {
+export function findZoneAll() {
   return relations
     .map((relation) => relation.tags.network)
     .filter(
@@ -112,15 +115,3 @@ function findZoneAll() {
         self.indexOf(value) === index && value != undefined
     );
 }
-
-module.exports = {
-  findStopAll,
-  findBusByOneStop,
-  findBusByTwoStop,
-  findBusDetailById,
-  findBusAll,
-  findOperatorAll,
-  findZoneAll,
-  findBusDetailByOperator,
-  findOpenHoursAll
-};

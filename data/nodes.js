@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     "type": "node",
     "id": 6450569024,

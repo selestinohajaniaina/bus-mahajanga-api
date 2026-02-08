@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     type: "relation",
     id: 16057683,

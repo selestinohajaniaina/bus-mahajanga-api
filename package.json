@@ -1,12 +1,26 @@
 {
   "name": "bus-mj",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "package for BUS station in Mahajanga",
+  "type": "module",
   "main": "index.js",
-  "typings": "index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js",
+      "default": "./index.js"
+    }
   },
+  "scripts": {
+    "test": "node -e \"const {findBusAll, findStopAll} = require('./index.js'); console.log('✓ Module loaded successfully'); console.log('✓ Buses found:', findBusAll().length); console.log('✓ Stops found:', findStopAll().length);\""
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "src/",
+    "data/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/selestinohajaniaina/bus-mahajanga-api.git"
