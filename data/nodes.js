@@ -73,7 +73,7 @@ export default [
     "id": 11029740956,
     "lat": -15.7162443,
     "lon": 46.36241,
-    "label": "Fokotany"
+    "label": "Fokontany"
   },
   {
     "type": "node",

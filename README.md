@@ -2,11 +2,8 @@
 
 ## <u> TANJONA </u>:
 
-#### Ho fanampina ireo vahiny, hitady ny bus tokony andehanany
+#### Ho fanampina ireo "developer" hanamboatra vahaolana
 
-#### Hanamorana ny fitadidiana ny trajet an'bus iray
-
-#### Hialana @ tsy fahafantarana ny "arret" tokony ialana
 
 ## <u> import </u>:
 
@@ -16,7 +13,14 @@ import {
   findStopAll,
   findBusDetailById,
   findBusByOneStop,
-  findBusByTwoStop
+  findBusByTwoStop,
+  findOperatorAll,
+  findZoneAll,
+  findBusDetailByOperator,
+  findOpenHoursAll,
+  findStopByRef,
+  findBusByStopLabel,
+  findBusByTwoStopLabel
 } from "bus-mj";
 ```
 
@@ -217,6 +221,82 @@ console.log( findBusByOneStop( 2006531160 ) );
 // ex1: 2006531160 - arret bus Abad (Sotema)
 // ex2: 11029976167 - arret bus Bord (Majunga be)
 console.log( findBusByTwoStop( 2006531160, 11029976167 ) );
+```
+
+```typescript
+// result
+[
+  {
+    type: "relation",
+    id: 16057683,
+    members: [
+      ...
+      {
+        type: "node",
+        id: 2006531160,
+        lat: -15.706214,
+        lon: 46.3799647,
+        label: "Abad",
+      },
+      ...
+      {
+        type: 'node',
+        id: 11029976167,
+        lat: -15.7211965,
+        lon: 46.3047163,
+        label: 'Bord'
+      },
+      ...
+    ],
+    tags: {
+      colour: "orange",
+      fee: "yes",
+      from: "Belobaka",
+      name: "Ligne 7 Plaque Mena",
+      network: "Zone Urbaine",
+      opening_hours: "Mo-Su 04:00-22:00",
+      operator: "MAMI",
+      "public_transport:version": "2",
+      ref: "7",
+      route: "bus",
+      to: "Belobaka",
+      type: "route",
+    },
+  },
+  ...
+];
+```
+
+
+- List Bus
+
+```js
+// maka ny lisitry ny koperativa ny bus rehetra
+console.log( findOperatorAll() );
+```
+
+```typescript
+// result
+[
+  'MAMI',
+  'KOFIBE/ KOFIMARE',
+  'MAHATSINJO',
+  'TAMBATRA',
+  'NY ANTSIKA',
+  'AMBONDRONA',
+  'MIRAY',
+  'KOFIMARE',
+  'AINA'
+]
+```
+
+- Find The Right Bus of 2 stop's label
+
+```js
+// maka ny lisitry ny bus mandalo @ arret roa
+// ex1: 'abad' - arret bus Abad (Sotema)
+// ex2: 'bord' - arret bus Bord (Majunga be)
+console.log( findBusByTwoStopLabel( 'abad', 'bord' ) );
 ```
 
 ```typescript

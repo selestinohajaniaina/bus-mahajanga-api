@@ -1,6 +1,6 @@
 {
   "name": "bus-mj",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "package for BUS station in Mahajanga",
   "type": "module",
   "main": "index.js",
@@ -27,7 +27,24 @@
   },
   "keywords": [
     "api",
-    "bus-mahajanga"
+    "bus-mahajanga",
+    "bus mahajanga",
+    "bus-mahajanga-api",
+    "bus mahajanga api",
+    "api bus mahajanga",
+    "api-bus-mahajanga",
+    "mahajanga",
+    "bus",
+    "mahajanga bus",
+    "mahajanga-bus",
+    "transport",
+    "public-transport",
+    "public transport",
+    "madagascar",
+    "bus-api",
+    "bus api",
+    "bus-api-mahajanga",
+    "bus api mahajanga"
   ],
   "author": "selestino",
   "license": "ISC",

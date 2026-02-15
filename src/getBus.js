@@ -44,7 +44,18 @@ export function findBusDetailById(bus_id) {
  */
 export function findBusByOneStop(stop_id) {
   return relations.filter((relation) => {
-    return relation.members.some((member) => member.ref === stop_id);
+    return relation.members.some((member) => member.ref == stop_id);
+  });
+}
+
+/**
+ * find Bus that have a one stop asked
+ * @param {number} stop_label label of stop
+ * @returns { Bus[] }
+ */
+export function findBusByStopLabel(stop_label) {
+  return relations.filter((relation) => {
+    return relation.members.some((member) => member.label && member.label.toUpperCase() == stop_label.toUpperCase());
   });
 }
 
@@ -58,6 +69,25 @@ export function findBusByTwoStop(begin, end) {
   let firstRelationsFound = findBusByOneStop(begin);
   return firstRelationsFound.filter((relation) => {
     return relation.members.some((member) => member.ref === end);
+  });
+}
+
+/**
+ * find the right bus of trajet giving
+ * @param {string} begin STOP_LABEL - begin of Road
+ * @param {string} end STOP_LABEL - end of Road
+ * @returns { Bus[] }
+ */
+export function findBusByTwoStopLabel(begin, end) {
+  let firstRelationsFound = findBusByStopLabel(begin);
+  return firstRelationsFound.filter((relation) => {
+    const beginIndex = relation.members.findIndex(
+      (member) => member.label && member.label.toUpperCase() == begin.toUpperCase()
+    );
+    const endIndex = relation.members.findIndex(
+      (member) => member.label && member.label.toUpperCase() == end.toUpperCase()
+    );
+    return beginIndex != -1 && endIndex != -1 && beginIndex < endIndex;
   });
 }
 
