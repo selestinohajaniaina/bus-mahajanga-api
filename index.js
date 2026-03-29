@@ -1,23 +1,29 @@
 import {
+  findBusAll,
   findStopAll,
+  findBusDetailById,
   findBusByOneStop,
   findBusByTwoStop,
-  findBusDetailById,
-  findBusAll,
   findOperatorAll,
   findZoneAll,
   findBusDetailByOperator,
-  findOpenHoursAll
+  findOpenHoursAll,
+  findStopByRef,
+  findBusByStopLabel,
+  findBusByTwoStopLabel
 } from "./src/getBus.js";
 
 export {
+  findBusAll,
   findStopAll,
+  findBusDetailById,
   findBusByOneStop,
   findBusByTwoStop,
-  findBusDetailById,
-  findBusAll,
   findOperatorAll,
   findZoneAll,
   findBusDetailByOperator,
-  findOpenHoursAll
+  findOpenHoursAll,
+  findStopByRef,
+  findBusByStopLabel,
+  findBusByTwoStopLabel
 };

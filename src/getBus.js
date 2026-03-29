@@ -61,7 +61,7 @@ export function findBusByOneStop(stop_id) {
 
 /**
  * find Bus that have a one stop asked
- * @param {number} stop_label label of stop
+ * @param {string} stop_label label of stop
  * @returns { Bus[] }
  */
 export function findBusByStopLabel(stop_label) {

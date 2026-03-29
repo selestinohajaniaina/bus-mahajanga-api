@@ -28,12 +28,15 @@ type Stop = {
   label: string | null,
 }
 
+export function findBusAll(): Bus[];
 export function findStopAll(): Stop[];
+export function findBusDetailById(busId: number): Bus;
 export function findBusByOneStop(stopId: number): Bus[];
 export function findBusByTwoStop(startStopId: number, endStopId: number): Bus[];
-export function findBusDetailById(busId: number): Bus;
-export function findBusAll(): Bus[];
 export function findOperatorAll(): string[];
 export function findZoneAll(): string[];
 export function findBusDetailByOperator(operatorName: string): Bus[];
 export function findOpenHoursAll(): string[];
+export function findStopByRef(ref: number): Stop;
+export function findBusByStopLabel(label: string): Bus[];
+export function findBusByTwoStopLabel(begin: string, end: string): Bus[];
