@@ -695,7 +695,7 @@ export default [
     "id": 11029976164,
     "lat": -15.723803,
     "lon": 46.3106776,
-    "label": "Bazar Be"
+    "label": "Bazary Be"
   },
   {
     "type": "node",
@@ -1880,7 +1880,7 @@ export default [
     "id": 11027750433,
     "lat": -15.7238554,
     "lon": 46.3105541,
-    "label": "Bazar Be"
+    "label": "Bazary Be"
   },
   {
     "type": "node",
