@@ -25,7 +25,18 @@ export function findStopByRef(ref) {
  * @returns { Stop[] }
  */
 export function findStopAll() {
-  return nodes.filter((node) => node.label != undefined);
+  const seen = new Set();
+
+  return nodes.filter((node) => {
+    if (!node.label) return false;
+
+    if (seen.has(node.label)) {
+      return false; // already see → pass
+    }
+
+    seen.add(node.label);
+    return true; // first found → keep
+  });
 }
 
 /**
