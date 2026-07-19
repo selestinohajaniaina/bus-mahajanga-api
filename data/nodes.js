@@ -170,7 +170,7 @@ export default [
     "id": 11031963685,
     "lat": -15.7173625,
     "lon": 46.3225145,
-    "label": "Bain_douche"
+    "label": "Bain douche"
   },
   {
     "type": "node",
@@ -280,7 +280,7 @@ export default [
     "id": 11029704990,
     "lat": -15.7072161,
     "lon": 46.3124853,
-    "label": "Bar_Sofa"
+    "label": "Bar Sofa"
   },
   {
     "type": "node",
@@ -459,7 +459,7 @@ export default [
     "id": 11027750437,
     "lat": -15.7184238,
     "lon": 46.3166675,
-    "label": "Hotel de Ville"
+    "label": "Hôtel de Ville"
   },
   {
     "type": "node",
@@ -1029,7 +1029,7 @@ export default [
     "id": 11032282188,
     "lat": -15.7184704,
     "lon": 46.3171848,
-    "label": "Hotel de ville"
+    "label": "Hôtel de Ville"
   },
   {
     "type": "node",
@@ -1375,7 +1375,7 @@ export default [
     "id": 11029976154,
     "lat": -15.7186046,
     "lon": 46.3164436,
-    "label": "Hotel de ville"
+    "label": "Hôtel de Ville"
   },
   {
     "type": "node",
@@ -1845,7 +1845,7 @@ export default [
     "id": 11033858714,
     "lat": -15.7169456,
     "lon": 46.3171033,
-    "label": "Hotel de Ville"
+    "label": "Hôtel de Ville"
   },
   {
     "type": "node",
