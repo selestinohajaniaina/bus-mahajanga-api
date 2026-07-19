@@ -130,22 +130,7 @@ export default [
       },
       {
         type: "node",
-        ref: 11029740922,
-        role: "stop",
-      },
-      {
-        type: "node",
-        ref: 11029740920,
-        role: "stop",
-      },
-      {
-        type: "node",
-        ref: 11029976152,
-        role: "stop",
-      },
-      {
-        type: "node",
-        ref: 11027750439,
+        ref: 11029976201,
         role: "stop",
       },
       {
@@ -495,7 +480,7 @@ export default [
       board: "red",
       fee: "yes",
       from: "Belobaka",
-      name: "Ligne 7 Plaque Mena",
+      name: "Ligne 7 Plaque Manga",
       network: "Zone Urbaine",
       opening_hours: "Mo-Su 04:00-22:00",
       operator: "MAMI",
@@ -637,17 +622,12 @@ export default [
       },
       {
         type: "node",
-        ref: 11029740922,
+        ref: 11027750439,
         role: "stop",
       },
       {
         type: "node",
-        ref: 11029740920,
-        role: "stop",
-      },
-      {
-        type: "node",
-        ref: 11029976152,
+        ref: 11027750437,
         role: "stop",
       },
       {
@@ -987,7 +967,7 @@ export default [
       board: "blue",
       fee: "yes",
       from: "Belobaka",
-      name: "Ligne 7 Plaque Manga",
+      name: "Ligne 7 Plaque Mena",
       network: "Zone Urbaine",
       opening_hours: "Mo-Su 04:00-22:00",
       operator: "MAMI",

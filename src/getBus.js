@@ -71,6 +71,18 @@ export function findBusByStopLabel(stop_label) {
 }
 
 /**
+ * find Bus that have a one stop asked
+ * @param {string} stop_label label of stop
+ * @param {Bus[]} __relation list of bus to filter
+ * @returns { Bus[] }
+ */
+export function __findBusByStopLabel(stop_label, __relation) {
+  return __relation.filter((rel) => {
+    return rel.members.some((member) => member.label && member.label.toUpperCase() == stop_label.toUpperCase());
+  });
+}
+
+/**
  * find the right bus of trajet giving
  * @param {number} begin STOP_ID - begin of Road
  * @param {number} end STOP_ID - end of Road
@@ -91,20 +103,7 @@ export function findBusByTwoStop(begin, end) {
  */
 export function findBusByTwoStopLabel(begin, end) {
   let firstRelationsFound = findBusByStopLabel(begin);
-  return firstRelationsFound.filter((relation) => {
-    const beginIndex = relation.members.findIndex(
-      (member) => member.label && member.label.toUpperCase() == begin.toUpperCase()
-    );
-    const endIndex = relation.members.findIndex(
-      (member) => member.label && member.label.toUpperCase() == end.toUpperCase()
-    );
-
-    if (beginIndex === -1 || endIndex === -1 || beginIndex >= endIndex) return false;
-
-    // Couper members à l'intervalle [begin, end]
-    relation.members = relation.members.slice(beginIndex, endIndex + 1);
-    return true;
-  });
+  return __findBusByStopLabel(end, firstRelationsFound);
 }
 
 /**
