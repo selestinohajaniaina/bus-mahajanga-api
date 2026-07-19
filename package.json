@@ -1,6 +1,6 @@
 {
   "name": "bus-mj",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "package for BUS station in Mahajanga",
   "type": "module",
   "main": "index.js",

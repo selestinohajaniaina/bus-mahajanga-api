@@ -98,7 +98,12 @@ export function findBusByTwoStopLabel(begin, end) {
     const endIndex = relation.members.findIndex(
       (member) => member.label && member.label.toUpperCase() == end.toUpperCase()
     );
-    return beginIndex != -1 && endIndex != -1 && beginIndex < endIndex;
+
+    if (beginIndex === -1 || endIndex === -1 || beginIndex >= endIndex) return false;
+
+    // Couper members à l'intervalle [begin, end]
+    relation.members = relation.members.slice(beginIndex, endIndex + 1);
+    return true;
   });
 }
 
