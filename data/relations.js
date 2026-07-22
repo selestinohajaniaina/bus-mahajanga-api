@@ -477,7 +477,7 @@ export default [
     tags: {
       color: "orange",
       band: ["blue", "red"],
-      board: "red",
+      board: "blue",
       fee: "yes",
       from: "Belobaka",
       name: "Ligne 7 Plaque Manga",
@@ -964,7 +964,7 @@ export default [
     tags: {
       color: "orange",
       band: ["blue", "red"],
-      board: "blue",
+      board: "red",
       fee: "yes",
       from: "Belobaka",
       name: "Ligne 7 Plaque Mena",
