@@ -66,7 +66,10 @@ export function findBusByOneStop(stop_id) {
  */
 export function findBusByStopLabel(stop_label) {
   return relations.filter((relation) => {
-    return relation.members.some((member) => member.label && member.label.toUpperCase() == stop_label.toUpperCase());
+    return relation.members.some(
+      (member) =>
+        member.label && member.label.toUpperCase() == stop_label.toUpperCase()
+    );
   });
 }
 
@@ -76,10 +79,30 @@ export function findBusByStopLabel(stop_label) {
  * @param {Bus[]} __relation list of bus to filter
  * @returns { Bus[] }
  */
-export function __findBusByStopLabel(stop_label, __relation) {
-  return __relation.filter((rel) => {
-    return rel.members.some((member) => member.label && member.label.toUpperCase() == stop_label.toUpperCase());
-  });
+export function __findBusByStopLabel(stop_label, relations, beginLabel) {
+  return relations
+    .map((rel) => {
+      const beginIndex = rel.members.findIndex(
+        (m) => m.label?.toUpperCase() === beginLabel.toUpperCase()
+      );
+
+      const endIndex = rel.members.findIndex(
+        (m) => m.label?.toUpperCase() === stop_label.toUpperCase()
+      );
+
+      if (beginIndex === -1 || endIndex === -1) {
+        return null;
+      }
+
+      const start = Math.min(beginIndex, endIndex);
+      const end = Math.max(beginIndex, endIndex);
+
+      return {
+        ...rel,
+        members: rel.members.slice(start, end + 1),
+      };
+    })
+    .filter(Boolean);
 }
 
 /**
@@ -103,7 +126,7 @@ export function findBusByTwoStop(begin, end) {
  */
 export function findBusByTwoStopLabel(begin, end) {
   let firstRelationsFound = findBusByStopLabel(begin);
-  return __findBusByStopLabel(end, firstRelationsFound);
+  return __findBusByStopLabel(end, firstRelationsFound, begin);
 }
 
 /**
