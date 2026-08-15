@@ -40,3 +40,4 @@ export function findOpenHoursAll(): string[];
 export function findStopByRef(ref: number): Stop;
 export function findBusByStopLabel(label: string): Bus[];
 export function findBusByTwoStopLabel(begin: string, end: string): Bus[];
+export function findBusOperator(operator: string): Bus[];

@@ -151,6 +151,14 @@ export function findBusAll() {
 }
 
 /**
+ * fetch bus by operator
+ * @returns { Bus[] }
+ */
+export function findBusOperator(operator) {
+  return relations.filter((e) => e.tags.operator == operator);
+}
+
+/**
  * fetch all operator
  * @returns { string[] }
  */

@@ -10,7 +10,8 @@ import {
   findOpenHoursAll,
   findStopByRef,
   findBusByStopLabel,
-  findBusByTwoStopLabel
+  findBusByTwoStopLabel,
+  findBusOperator
 } from "./src/getBus.js";
 
 export {
@@ -25,5 +26,6 @@ export {
   findOpenHoursAll,
   findStopByRef,
   findBusByStopLabel,
-  findBusByTwoStopLabel
+  findBusByTwoStopLabel,
+  findBusOperator
 };
