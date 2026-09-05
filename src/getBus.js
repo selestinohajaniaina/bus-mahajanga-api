@@ -86,7 +86,7 @@ export function __findBusByStopLabel(stop_label, relations, beginLabel) {
         (m) => m.label?.toUpperCase() === beginLabel.toUpperCase()
       );
 
-      const endIndex = rel.members.findIndex(
+      const endIndex = rel.members.findLastIndex(
         (m) => m.label?.toUpperCase() === stop_label.toUpperCase()
       );
 
@@ -94,15 +94,12 @@ export function __findBusByStopLabel(stop_label, relations, beginLabel) {
         return null;
       }
 
-      const start = Math.min(beginIndex, endIndex);
-      const end = Math.max(beginIndex, endIndex);
-
       return {
         ...rel,
-        members: rel.members.slice(start, end + 1),
+        members: rel.members.slice(beginIndex, endIndex + 1),
       };
     })
-    .filter(Boolean);
+    .filter((bus) => bus !== null && bus.members.length > 0);
 }
 
 /**
