@@ -890,13 +890,14 @@ export default [
     "id": 11030137461,
     "lat": -15.706799,
     "lon": 46.3207464,
-    "label": "Tsaramandroso Shoprite"
+    "label": "makiloc"
   },
   {
     "type": "node",
     "id": 11027750481,
     "lat": -15.711999,
-    "lon": 46.3190055
+    "lon": 46.3190055,
+    "label": "5 etage"
   },
   {
     "type": "node",
@@ -1313,7 +1314,7 @@ export default [
     "id": 11032129669,
     "lat": -15.6834718,
     "lon": 46.3345319,
-    "label": "Labatoto"
+    "label": "Rabatoto"
   },
   {
     "type": "node",
