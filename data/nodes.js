@@ -1183,7 +1183,7 @@ export default [
     "id": 11032158398,
     "lat": -15.6947721,
     "lon": 46.3278376,
-    "label": "HASIMA"
+    "label": "HASYMA"
   },
   {
     "type": "node",
@@ -1279,7 +1279,7 @@ export default [
     "id": 1316377069,
     "lat": -15.6950635,
     "lon": 46.3276012,
-    "label": "HASIMA"
+    "label": "HASYMA"
   },
   {
     "type": "node",
