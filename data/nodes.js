@@ -2298,7 +2298,6 @@ export default [
     "lon": 46.32568,
     "label": "Classico"
   },
-  ,
   {
     "type": "node",
     "id": 11035236078,
