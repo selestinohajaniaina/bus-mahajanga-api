@@ -2290,5 +2290,20 @@ export default [
     "lat": -15.71856,
     "lon": 46.3171984,
     "label": "Parkage régional"
+  },
+  {
+    "type": "node",
+    "id": 11035236076,
+    "lat": -15.69764,
+    "lon": 46.32568,
+    "label": "Classico"
+  },
+  ,
+  {
+    "type": "node",
+    "id": 11035236078,
+    "lat": -15.69585,
+    "lon": 46.32702,
+    "label": "Vavahady"
   }
 ];

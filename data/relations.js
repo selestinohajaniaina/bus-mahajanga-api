@@ -1491,6 +1491,16 @@ export default [
       },
       {
         type: "node",
+        ref: 11035236076,
+        role: "stop",
+      },
+      {
+        type: "node",
+        ref: 11035236078,
+        role: "stop",
+      },
+      {
+        type: "node",
         ref: 11032150436,
         role: "stop",
       },
@@ -1621,7 +1631,7 @@ export default [
       board: null,
       fee: "yes",
       from: "Mangatokana",
-      name: "Ligne 8 Mangatokana- Ankaraobato",
+      name: "Ligne 8 Mangatokana - Ankaraobato",
       network: "zone urbain",
       opening_hours: "Mo-Su 05:00-20:00",
       operator: "MAHATSINJO",
@@ -1875,6 +1885,16 @@ export default [
       },
       {
         type: "node",
+        ref: 11035236076,
+        role: "stop",
+      },
+      {
+        type: "node",
+        ref: 11035236078,
+        role: "stop",
+      },
+      {
+        type: "node",
         ref: 11032150436,
         role: "stop",
       },
@@ -1955,14 +1975,14 @@ export default [
       board: null,
       fee: "yes",
       from: "Port",
-      name: "Ligne 6 Port-Pamba Amborovy",
+      name: "Ligne 6 Port - Pamba Amborovy",
       network: "zone urbain",
       opening_hours: "Mo-Su 05:00-19:00",
       operator: "TAMBATRA",
       "public_transport:version": "2",
       ref: "6",
       route: "bus",
-      to: "Pamba",
+      to: "Pamba Amborovy",
       type: "route",
     },
   },
@@ -2825,6 +2845,16 @@ export default [
       },
       {
         type: "node",
+        ref: 11035236076,
+        role: "stop",
+      },
+      {
+        type: "node",
+        ref: 11035236078,
+        role: "stop",
+      },
+      {
+        type: "node",
         ref: 11032150436,
         role: "stop",
       },
@@ -2875,7 +2905,7 @@ export default [
       board: null,
       fee: "yes",
       from: "Aranta",
-      name: "Ligne 12 Aranta-CDA Aqualma",
+      name: "Ligne 12 Aranta - CDA Aqualma",
       network: "zone urbain",
       opening_hours: "Mo-Su 05:00-19:00",
       operator: "MAHATSINJO",
@@ -3990,6 +4020,16 @@ export default [
       {
         type: "node",
         ref: 11032158398,
+        role: "stop",
+      },
+      {
+        type: "node",
+        ref: 11035236076,
+        role: "stop",
+      },
+      {
+        type: "node",
+        ref: 11035236078,
         role: "stop",
       },
       {
