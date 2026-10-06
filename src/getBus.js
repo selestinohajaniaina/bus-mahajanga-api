@@ -165,7 +165,8 @@ export function findOperatorAll() {
     .filter(
       (value, index, self) =>
         self.indexOf(value) === index && value != undefined
-    );
+    )
+    .sort();
 }
 
 /**
