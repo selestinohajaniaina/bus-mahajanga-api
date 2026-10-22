@@ -38,7 +38,8 @@ export default [
     "type": "node",
     "id": 11029740988,
     "lat": -15.7137589,
-    "lon": 46.3719552
+    "lon": 46.3719552,
+    "label": "Loterianina"
   },
   {
     "type": "node",
@@ -107,7 +108,8 @@ export default [
     "type": "node",
     "id": 11029740991,
     "lat": -15.7153946,
-    "lon": 46.3484651
+    "lon": 46.3484651,
+    "label": "Lalatapaka"
   },
   {
     "type": "node",
@@ -183,7 +185,8 @@ export default [
     "type": "node",
     "id": 11029740920,
     "lat": -15.717785,
-    "lon": 46.3196159
+    "lon": 46.3196159,
+    "label": "Photo Sport"
   },
   {
     "type": "node",
@@ -210,7 +213,8 @@ export default [
     "type": "node",
     "id": 11029740998,
     "lat": -15.7150053,
-    "lon": 46.3193712
+    "lon": 46.3193712,
+    "label": "Jantilal"
   },
   {
     "type": "node",
@@ -293,13 +297,15 @@ export default [
     "type": "node",
     "id": 11029704997,
     "lat": -15.7069759,
-    "lon": 46.3099279
+    "lon": 46.3099279,
+    "label": "Manarapenitra"
   },
   {
     "type": "node",
     "id": 11029741008,
     "lat": -15.7076925,
-    "lon": 46.3091353
+    "lon": 46.3091353,
+    "label": "Cours d'appel"
   },
   {
     "type": "node",
@@ -361,7 +367,8 @@ export default [
     "type": "node",
     "id": 11029741010,
     "lat": -15.7162259,
-    "lon": 46.29926
+    "lon": 46.29926,
+    "label": "Jardin d'amour"
   },
   {
     "type": "node",
@@ -577,7 +584,8 @@ export default [
     "type": "node",
     "id": 11027750457,
     "lat": -15.7156551,
-    "lon": 46.3597676
+    "lon": 46.3597676,
+    "label": "Bazary kely"
   },
   {
     "type": "node",
@@ -611,7 +619,8 @@ export default [
     "type": "node",
     "id": 11027750462,
     "lat": -15.7144451,
-    "lon": 46.370362
+    "lon": 46.370362,
+    "label": "Pont_blanc"
   },
   {
     "type": "node",
@@ -869,7 +878,8 @@ export default [
     "type": "node",
     "id": 11029976196,
     "lat": -15.7043788,
-    "lon": 46.3194553
+    "lon": 46.3194553,
+    "label": "Mama Philippine"
   },
   {
     "type": "node",
@@ -1362,7 +1372,8 @@ export default [
     "type": "node",
     "id": 11032229641,
     "lat": -15.6743075,
-    "lon": 46.3408759
+    "lon": 46.3408759,
+    "label": "Croisement ZAHAMOTEL"
   },
   {
     "type": "node",
@@ -1494,7 +1505,8 @@ export default [
     "type": "node",
     "id": 11030145878,
     "lat": -15.7050259,
-    "lon": 46.3351077
+    "lon": 46.3351077,
+    "label": "Pompe_doany"
   },
   {
     "type": "node",
@@ -1570,7 +1582,8 @@ export default [
     "type": "node",
     "id": 11033808594,
     "lat": -15.7034157,
-    "lon": 46.3478114
+    "lon": 46.3478114,
+    "label": "Alexia"
   },
   {
     "type": "node",
@@ -1667,7 +1680,8 @@ export default [
     "type": "node",
     "id": 11033858710,
     "lat": -15.7153758,
-    "lon": 46.3171714
+    "lon": 46.3171714,
+    "label": "Bois Sacré"
   },
   {
     "type": "node",
@@ -1736,7 +1750,8 @@ export default [
     "type": "node",
     "id": 11033838291,
     "lat": -15.6683654,
-    "lon": 46.3401926
+    "lon": 46.3401926,
+    "label": "Masera"
   },
   {
     "type": "node",
@@ -1763,7 +1778,8 @@ export default [
     "type": "node",
     "id": 1893059655,
     "lat": -15.659673,
-    "lon": 46.3339856
+    "lon": 46.3339856,
+    "label": "Madiro kely"
   },
   {
     "type": "node",
@@ -1915,7 +1931,8 @@ export default [
     "type": "node",
     "id": 11027750490,
     "lat": -15.700868,
-    "lon": 46.3357951
+    "lon": 46.3357951,
+    "label": "Sens unique"
   },
   {
     "type": "node",
@@ -1928,7 +1945,8 @@ export default [
     "type": "node",
     "id": 11034419675,
     "lat": -15.7003911,
-    "lon": 46.3347955
+    "lon": 46.3347955,
+    "label": "Lavasoka"
   },
   {
     "type": "node",
@@ -2095,7 +2113,8 @@ export default [
     "type": "node",
     "id": 11035187541,
     "lat": -15.7230689,
-    "lon": 46.3167059
+    "lon": 46.3167059,
+    "label": "Marofody"
   },
   {
     "type": "node",
@@ -2108,7 +2127,8 @@ export default [
     "type": "node",
     "id": 11035124101,
     "lat": -15.7177825,
-    "lon": 46.3123155
+    "lon": 46.3123155,
+    "label": "Sainte Jeanne d'arc"
   },
   {
     "type": "node",
@@ -2268,7 +2288,8 @@ export default [
     "type": "node",
     "id": 11035236068,
     "lat": -15.7233499,
-    "lon": 46.3142855
+    "lon": 46.3142855,
+    "label": "Barday"
   },
   {
     "type": "node",
